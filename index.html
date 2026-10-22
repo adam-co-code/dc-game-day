@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#c8102e">
+<meta name="description" content="Every in-person sporting event in and around Washington, DC.">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>DC Game Day Calendar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Public+Sans:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: masthead with DC-flag stars, filter bar, then a date-grouped agenda (or month grid) of home games */
+:root{
+  --bg:#f6f6f4; --surface:#ffffff; --ink:#16181d; --muted:#5d6370; --line:#dfe0e3;
+  --red:#c8102e; --red-soft:#fbe7ea; --chip:#eceef1;
+  --nfl:#5a1414; --nhl:#c8102e; --nba:#1d4fa3; --soc:#1f7a4d; --ncaaf:#9a6f05; --ncaab:#6b3fa0; --mlb:#0b3a6e; --oth:#4a5160; --pill-ink:#ffffff;
+  --display:"Barlow Condensed","Arial Narrow",Impact,sans-serif;
+  --body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#121317; --surface:#1b1d22; --ink:#eceef2; --muted:#9aa0ab; --line:#2c2f36;
+  --red:#ff4d63; --red-soft:#3a1a20; --chip:#262931;
+  --nfl:#e07a6a; --nhl:#ff4d63; --nba:#6b9bff; --soc:#4fc48a; --ncaaf:#e6b84a; --ncaab:#b48aea; --mlb:#7fb2ee; --oth:#b9c0cc; --pill-ink:#121317; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121317; --surface:#1b1d22; --ink:#eceef2; --muted:#9aa0ab; --line:#2c2f36;
+  --red:#ff4d63; --red-soft:#3a1a20; --chip:#262931;
+  --nfl:#e07a6a; --nhl:#ff4d63; --nba:#6b9bff; --soc:#4fc48a; --ncaaf:#e6b84a; --ncaab:#b48aea; --mlb:#7fb2ee; --oth:#b9c0cc; --pill-ink:#121317; color-scheme:dark}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+[hidden]{display:none!important}
+body{margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
+.wrap{max-width:980px;margin:0 auto}
+header{padding-block:28px 18px;border-bottom:3px solid var(--ink);display:grid;gap:10px}
+.flag{display:flex;flex-direction:column;gap:5px;width:84px}
+.stars{display:flex;justify-content:space-between}
+.stars svg{width:22px;height:22px;fill:var(--red)}
+.bar{height:6px;background:var(--red)}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(2.4rem,7vw,4rem);line-height:.95;margin:6px 0 0;text-transform:uppercase;letter-spacing:.01em;text-wrap:balance}
+.sub{color:var(--muted);max-width:60ch;margin:0}
+.controls{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:14px;border-bottom:1px solid var(--line);display:grid;gap:10px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{font:600 13px var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer;display:inline-flex;gap:7px;align-items:center}
+.chip .dot{width:9px;height:9px;border-radius:50%}
+.chip[aria-pressed="false"]{opacity:.45;background:transparent}
+.chip:focus-visible,select:focus-visible,.seg button:focus-visible,input:focus-visible{outline:2px solid var(--red);outline-offset:2px}
+select,input[type=search]{font:500 14px var(--body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:7px 10px;min-width:0}
+input[type=search]{flex:1 1 180px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;margin-left:auto}
+.seg button{font:600 13px var(--body);border:0;background:var(--surface);color:var(--muted);padding:7px 12px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.count{color:var(--muted);font-size:13px;font-variant-numeric:tabular-nums}
+.month{font-family:var(--display);font-weight:700;font-size:1.9rem;text-transform:uppercase;letter-spacing:.02em;margin:30px 0 6px;display:flex;align-items:baseline;gap:12px}
+.month small{font:500 13px var(--body);color:var(--muted);letter-spacing:0;text-transform:none}
+.day{display:grid;grid-template-columns:64px 1fr;gap:14px;padding-block:12px;border-top:1px solid var(--line)}
+.date{font-family:var(--display);line-height:1;text-align:center;padding-top:2px}
+.date .dow{font-size:13px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.date .num{font-size:2.2rem;font-weight:800;font-variant-numeric:tabular-nums}
+.day.today .date .num{color:var(--red)}
+.events{display:grid;gap:8px;min-width:0}
+.ev{display:grid;grid-template-columns:4px 1fr auto;gap:12px;align-items:start;min-width:0}
+.ev .stripe{align-self:stretch;border-radius:2px}
+.ev .main{min-width:0}
+.ev .match{font-weight:700;font-size:16px}
+.ev .meta{color:var(--muted);font-size:13px}
+.ev .time{font-family:var(--display);font-weight:700;font-size:1.15rem;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
+.ev .time.tba{color:var(--muted);font-size:.95rem}
+.tag{display:inline-block;font:700 10.5px var(--body);letter-spacing:.08em;text-transform:uppercase;padding:2px 6px;border-radius:4px;background:var(--red-soft);color:var(--red);margin-left:6px;vertical-align:2px}
+.note{font-size:12.5px;color:var(--muted);font-style:italic}
+/* month grid */
+.gridwrap{overflow-x:auto}
+.cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));border-left:1px solid var(--line);border-top:1px solid var(--line);min-width:640px}
+.cal .hd{font:700 12px var(--body);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);padding:6px;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.cal .cell{min-height:92px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);padding:5px;display:flex;flex-direction:column;gap:3px;background:var(--surface)}
+.cal .cell.out{background:transparent}
+.cal .cell .n{font:700 13px var(--display);font-variant-numeric:tabular-nums}
+.cal .cell.today .n{color:var(--red)}
+.pill{font-size:11.5px;line-height:1.25;padding:2px 5px;border-radius:4px;color:var(--pill-ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.empty{padding:40px 0;color:var(--muted);text-align:center}
+footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:13px;display:grid;gap:6px}
+@media (max-width:520px){.day{grid-template-columns:48px 1fr;gap:10px}.date .num{font-size:1.8rem}.seg{margin-left:0}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+<header>
+  <div class="flag" aria-hidden="true">
+    <div class="stars">
+      <svg viewBox="0 0 24 24"><path d="M12 2l2.9 6.9 7.1.6-5.4 4.7 1.7 7-6.3-3.9-6.3 3.9 1.7-7L2 9.5l7.1-.6z"/></svg>
+      <svg viewBox="0 0 24 24"><path d="M12 2l2.9 6.9 7.1.6-5.4 4.7 1.7 7-6.3-3.9-6.3 3.9 1.7-7L2 9.5l7.1-.6z"/></svg>
+      <svg viewBox="0 0 24 24"><path d="M12 2l2.9 6.9 7.1.6-5.4 4.7 1.7 7-6.3-3.9-6.3 3.9 1.7-7L2 9.5l7.1-.6z"/></svg>
+    </div>
+    <div class="bar"></div><div class="bar"></div>
+  </div>
+  <h1>DC Game Day Calendar</h1>
+  <p class="sub">Every in-person sporting event in and just outside the District: pro teams, college games, races and one-off events, from Capital One Arena to Nationals Park, Audi Field, College Park and the campus gyms. All times Eastern.</p>
+</header>
+
+<div class="controls">
+  <div class="row" id="sports" role="group" aria-label="Filter by sport"></div>
+  <div class="row">
+    <select id="team" aria-label="Team"><option value="">All teams</option></select>
+    <select id="venue" aria-label="Venue"><option value="">All venues</option></select>
+    <input id="q" type="search" placeholder="Search opponent…" aria-label="Search opponent">
+    <div class="seg" role="group" aria-label="View">
+      <button id="vList" aria-pressed="true">List</button><button id="vMonth" aria-pressed="false">Month</button>
+    </div>
+  </div>
+  <div class="count" id="count"></div>
+</div>
+
+<main id="out"></main>
+
+<footer>
+  <div>Schedules last updated <span id="updated">recently</span> from team and league announcements. Times marked TBA haven't been set yet, and TV-driven times (especially college football) can move. Check the team's site before buying tickets.</div>
+  <div>Coming as soon as schedules are released: Mystics (WNBA, May–Sept.), DC Defenders (UFL, spring), Old Glory DC (rugby, spring), Washington Freedom (cricket, summer), the full Nationals slate, and any D.C. United or Spirit playoff home matches (the Spirit could host Nov. 6 or 8 and Nov. 14 or 15 depending on seeding).</div>
+</footer>
+</div>
+
+<script>
+const SPORTS={
+  nfl:{label:"NFL",color:"var(--nfl)"}, nhl:{label:"NHL",color:"var(--nhl)"}, nba:{label:"Pro Basketball",color:"var(--nba)"}, mlb:{label:"Baseball",color:"var(--mlb)"},
+  soc:{label:"Soccer",color:"var(--soc)"}, ncaaf:{label:"College Football",color:"var(--ncaaf)"}, ncaab:{label:"College Hoops",color:"var(--ncaab)"}, oth:{label:"Special Events",color:"var(--oth)"}
+};
+const V={
+  cap:"Capital One Arena · Penn Quarter, DC", nw:"Northwest Stadium · Landover, MD", audi:"Audi Field · Buzzard Point, DC",
+  secu:"SECU Stadium · College Park, MD", xfin:"Xfinity Center · College Park, MD", mcd:"McDonough Arena · Georgetown, DC",
+  smith:"Smith Center · Foggy Bottom, DC", greene:"Greene Stadium · Howard, DC", gtba:"Georgetown home · venue TBA",
+  cfa:"CareFirst Arena · Congress Heights, DC", nats:"Nationals Park · Navy Yard, DC", bender:"Bender Arena · American U, DC",
+  burr:"Burr Gymnasium · Howard, DC", eagle:"EagleBank Arena · Fairfax, VA", wihs:"Show Place Arena · Upper Marlboro, MD", mcm:"Pentagon to Marine Corps War Memorial · Arlington, VA"
+};
+let EVENTS=[];
+function mins(t){if(!t)return 9999;const m=t.match(/(\d+):(\d+) (AM|PM)/);let h=+m[1]%12;if(m[3]==="PM")h+=12;return h*60+ +m[2]}
+
+const TODAY=(()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")})();
+const state={sports:new Set(Object.keys(SPORTS)),team:"",venue:"",q:"",view:"list"};
+try{const s=JSON.parse(localStorage.getItem("dcgd")||"null");if(s){state.sports=new Set(s.sports);state.view=s.view||"list"}}catch(e){}
+function save(){try{localStorage.setItem("dcgd",JSON.stringify({sports:[...state.sports],view:state.view}))}catch(e){}}
+
+const $=id=>document.getElementById(id);
+const sportsEl=$("sports");
+for(const [k,s] of Object.entries(SPORTS)){
+  const b=document.createElement("button");b.className="chip";b.dataset.k=k;
+  b.innerHTML=`<span class="dot" style="background:${s.color}"></span>${s.label}`;
+  b.onclick=()=>{state.sports.has(k)?state.sports.delete(k):state.sports.add(k);if(!state.sports.size)Object.keys(SPORTS).forEach(x=>state.sports.add(x));save();render()};
+  sportsEl.appendChild(b);
+}
+
+$("team").onchange=e=>{state.team=e.target.value;render()};
+$("venue").onchange=e=>{state.venue=e.target.value;render()};
+$("q").oninput=e=>{state.q=e.target.value.trim().toLowerCase();render()};
+$("vList").onclick=()=>{state.view="list";save();render()};
+$("vMonth").onclick=()=>{state.view="month";save();render()};
+
+const fmtMonth=d=>new Date(d+"T12:00").toLocaleDateString("en-US",{month:"long",year:"numeric"});
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function filtered(){
+  return EVENTS.filter(e=>e.date>=TODAY&&state.sports.has(e.sport)&&(!state.team||e.team===state.team)&&(!state.venue||e.venueShort===state.venue)
+    &&(!state.q||(e.opp+" "+e.team).toLowerCase().includes(state.q)));
+}
+function render(){
+  sportsEl.querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed",state.sports.has(b.dataset.k)));
+  $("vList").setAttribute("aria-pressed",state.view==="list");$("vMonth").setAttribute("aria-pressed",state.view==="month");
+  const list=filtered();
+  $("count").textContent=`${list.length} upcoming event${list.length===1?"":"s"}`;
+  const out=$("out");
+  if(!list.length){out.innerHTML='<p class="empty">No games match these filters. Turn a sport back on or clear the search.</p>';return}
+  out.innerHTML=state.view==="list"?listView(list):monthView(list);
+}
+function evHTML(e){
+  const s=SPORTS[e.sport];
+  return `<div class="ev"><span class="stripe" style="background:${s.color}"></span>
+  <div class="main"><div class="match">${esc(e.team)} <span style="color:var(--muted);font-weight:500">${e.sport==="oth"?"·":"vs"}</span> ${esc(e.opp)}${e.tag?`<span class="tag">${esc(e.tag)}</span>`:""}</div>
+  <div class="meta">${esc(e.venue)} · ${s.label}</div>${e.note?`<div class="note">${esc(e.note)}</div>`:""}</div>
+  <div class="time ${e.time?"":"tba"}">${e.time||"Time TBA"}</div></div>`;
+}
+function listView(list){
+  let html="",curM="",curD="";
+  const byMonth={};list.forEach(e=>{const m=e.date.slice(0,7);byMonth[m]=(byMonth[m]||0)+1});
+  for(const e of list){
+    const m=e.date.slice(0,7);
+    if(m!==curM){if(curD)html+="</div></div>";curD="";curM=m;html+=`<h2 class="month">${fmtMonth(e.date)}<small>${byMonth[m]} event${byMonth[m]>1?"s":""}</small></h2>`}
+    if(e.date!==curD){if(curD)html+="</div></div>";curD=e.date;const d=new Date(e.date+"T12:00");
+      html+=`<div class="day${e.date===TODAY?" today":""}"><div class="date"><div class="dow">${d.toLocaleDateString("en-US",{weekday:"short"})}</div><div class="num">${d.getDate()}</div></div><div class="events">`}
+    html+=evHTML(e);
+  }
+  return html+"</div></div>";
+}
+function monthView(list){
+  const months=[...new Set(list.map(e=>e.date.slice(0,7)))];let html="";
+  for(const m of months){
+    const [y,mo]=m.split("-").map(Number);const first=new Date(y,mo-1,1),days=new Date(y,mo,0).getDate();
+    html+=`<h2 class="month">${fmtMonth(m+"-01")}</h2><div class="gridwrap"><div class="cal">`+["Sun","Mon","Tue","Wed","Thu","Fri","Sat"].map(d=>`<div class="hd">${d}</div>`).join("");
+    for(let i=0;i<first.getDay();i++)html+='<div class="cell out"></div>';
+    for(let d=1;d<=days;d++){
+      const ds=`${m}-${String(d).padStart(2,"0")}`;const evs=list.filter(e=>e.date===ds);
+      html+=`<div class="cell${ds===TODAY?" today":""}"><span class="n">${d}</span>`+evs.map(e=>`<span class="pill" style="background:${SPORTS[e.sport].color}" title="${esc(e.team)} · ${esc(e.opp)} · ${e.time||"TBA"} · ${esc(e.venueShort)}">${e.sport==="oth"?esc(e.team):esc(e.team.replace(/ \((M|W)\)$/,"")).split(" ")[0]+" v "+esc(e.opp)}</span>`).join("")+"</div>";
+    }
+    const tail=(7-((first.getDay()+days)%7))%7;for(let i=0;i<tail;i++)html+='<div class="cell out"></div>';
+    html+="</div></div>";
+  }
+  return html;
+}
+async function init(){
+  $("out").innerHTML='<p class="empty">Loading games…</p>';
+  try{
+    const r=await fetch("events.json",{cache:"no-cache"});const data=await r.json();
+    EVENTS=data.events.map((e,i)=>{const v=V[e.venue]||e.venue||"Venue TBA";return {id:i,date:e.date,time:e.time||"",sport:SPORTS[e.sport]?e.sport:"oth",team:e.team,opp:e.opponent,venue:v,venueShort:v.split(" · ")[0],tag:e.tag||"",note:e.note||""}})
+      .sort((a,b)=>a.date.localeCompare(b.date)||mins(a.time)-mins(b.time));
+    if(data.updated)$("updated").textContent=new Date(data.updated+"T12:00").toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"});
+  }catch(err){$("out").innerHTML='<p class="empty">Couldn\'t load the schedule. Check your connection and refresh.</p>';return}
+  [...new Set(EVENTS.map(e=>e.team))].sort().forEach(t=>$("team").add(new Option(t,t)));
+  [...new Set(EVENTS.map(e=>e.venueShort))].sort().forEach(v=>$("venue").add(new Option(v,v)));
+  render();
+}
+init();
+if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
+</script>
+</body>
+</html>

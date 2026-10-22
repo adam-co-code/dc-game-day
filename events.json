@@ -1,0 +1,1915 @@
+{
+ "updated": "2026-10-22",
+ "events": [
+  {
+   "date": "2026-10-22",
+   "time": "",
+   "sport": "oth",
+   "team": "Washington International Horse Show",
+   "opponent": "Show jumping & hunters",
+   "venue": "wihs",
+   "tag": "Through Oct. 25",
+   "note": "Runs daily Oct. 19–25; evening sessions feature the top jumper classes"
+  },
+  {
+   "date": "2026-10-23",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Toronto Raptors",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-10-23",
+   "time": "",
+   "sport": "oth",
+   "team": "Washington International Horse Show",
+   "opponent": "Show jumping & hunters",
+   "venue": "wihs",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-10-24",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Buffalo Sabres",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-10-24",
+   "time": "7:30 PM",
+   "sport": "soc",
+   "team": "D.C. United",
+   "opponent": "FC Cincinnati",
+   "venue": "audi",
+   "tag": "MLS",
+   "note": ""
+  },
+  {
+   "date": "2026-10-24",
+   "time": "",
+   "sport": "oth",
+   "team": "Washington International Horse Show",
+   "opponent": "Show jumping & hunters",
+   "venue": "wihs",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-10-24",
+   "time": "",
+   "sport": "oth",
+   "team": "Marine Corps 8K & Kids Run",
+   "opponent": "Race weekend",
+   "venue": "mcm",
+   "tag": "Running",
+   "note": ""
+  },
+  {
+   "date": "2026-10-25",
+   "time": "",
+   "sport": "oth",
+   "team": "Washington International Horse Show",
+   "opponent": "Final day",
+   "venue": "wihs",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-10-25",
+   "time": "",
+   "sport": "oth",
+   "team": "Marine Corps Marathon",
+   "opponent": "26.2 miles",
+   "venue": "mcm",
+   "tag": "Running",
+   "note": "Free to watch along the course; expect road closures in Arlington and DC"
+  },
+  {
+   "date": "2026-10-28",
+   "time": "7:30 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Philadelphia Flyers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Charlotte Hornets",
+   "venue": "cap",
+   "tag": "NBA Cup",
+   "note": ""
+  },
+  {
+   "date": "2026-10-31",
+   "time": "",
+   "sport": "ncaaf",
+   "team": "Maryland Terrapins",
+   "opponent": "Illinois",
+   "venue": "secu",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-01",
+   "time": "8:20 PM",
+   "sport": "nfl",
+   "team": "Commanders",
+   "opponent": "Philadelphia Eagles",
+   "venue": "nw",
+   "tag": "SNF",
+   "note": ""
+  },
+  {
+   "date": "2026-11-01",
+   "time": "3:30 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Minnesota Wild",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-02",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Loyola Maryland",
+   "venue": "gtba",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-02",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Delaware State",
+   "venue": "mcd",
+   "tag": "Opener",
+   "note": ""
+  },
+  {
+   "date": "2026-11-02",
+   "time": "",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Navy",
+   "venue": "smith",
+   "tag": "Opener",
+   "note": ""
+  },
+  {
+   "date": "2026-11-02",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Bucknell",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-03",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Dallas Stars",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-04",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Atlanta Hawks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-05",
+   "time": "5:00 PM",
+   "sport": "ncaaf",
+   "team": "Howard Bison",
+   "opponent": "South Carolina State",
+   "venue": "greene",
+   "tag": "MEAC",
+   "note": "Howard lists Nov. 5; some outlets list Nov. 7, so confirm before going"
+  },
+  {
+   "date": "2026-11-05",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "American",
+   "venue": "mcd",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-07",
+   "time": "12:30 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Florida Panthers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-07",
+   "time": "4:00 PM",
+   "sport": "soc",
+   "team": "D.C. United",
+   "opponent": "New York City FC",
+   "venue": "audi",
+   "tag": "Decision Day",
+   "note": "Final regular-season match; MLS playoff home dates follow if United qualify"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Maryland",
+   "venue": "cap",
+   "tag": "Rivalry",
+   "note": ""
+  },
+  {
+   "date": "2026-11-08",
+   "time": "1:00 PM",
+   "sport": "nfl",
+   "team": "Commanders",
+   "opponent": "Los Angeles Rams",
+   "venue": "nw",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-08",
+   "time": "1:00 PM",
+   "sport": "oth",
+   "team": "Capital Showcase",
+   "opponent": "Virginia vs. Arkansas",
+   "venue": "cap",
+   "tag": "College hoops",
+   "note": "Neutral-site men's basketball game"
+  },
+  {
+   "date": "2026-11-08",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Saint Peter's",
+   "venue": "mcd",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-10",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Delaware State",
+   "venue": "mcd",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-10",
+   "time": "",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Elon",
+   "venue": "smith",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "time": "",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Georgetown",
+   "venue": "smith",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-12",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Detroit Pistons",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-13",
+   "time": "",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Harvard",
+   "venue": "smith",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-13",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Virginia",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-14",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "New Jersey Devils",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-14",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Raptors 905",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2026-11-14",
+   "time": "",
+   "sport": "ncaaf",
+   "team": "Maryland Terrapins",
+   "opponent": "Wisconsin",
+   "venue": "secu",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-14",
+   "time": "1:00 PM",
+   "sport": "ncaaf",
+   "team": "Howard Bison",
+   "opponent": "Delaware State",
+   "venue": "greene",
+   "tag": "MEAC",
+   "note": ""
+  },
+  {
+   "date": "2026-11-15",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Houston Rockets",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-15",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Howard",
+   "venue": "mcd",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-16",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Memphis Grizzlies",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-16",
+   "time": "2:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Raptors 905",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2026-11-16",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Alcorn State",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Navy",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-19",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Buffalo Sabres",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Wagner",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-21",
+   "time": "8:00 PM",
+   "sport": "soc",
+   "team": "NWSL Championship",
+   "opponent": "Final (teams TBD)",
+   "venue": "audi",
+   "tag": "Title game",
+   "note": "Neutral-site final; the Spirit play in it only if they win their bracket"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Coppin State",
+   "venue": "mcd",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-21",
+   "time": "",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "South Florida",
+   "venue": "eagle",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-22",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Orlando Magic",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-23",
+   "time": "8:15 PM",
+   "sport": "nfl",
+   "team": "Commanders",
+   "opponent": "Cincinnati Bengals",
+   "venue": "nw",
+   "tag": "MNF",
+   "note": ""
+  },
+  {
+   "date": "2026-11-24",
+   "time": "8:00 PM",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Boston Celtics",
+   "venue": "cap",
+   "tag": "NBA Cup",
+   "note": ""
+  },
+  {
+   "date": "2026-11-24",
+   "time": "2:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Long Island Nets",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2026-11-25",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Philadelphia Flyers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-27",
+   "time": "3:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Florida Panthers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "UMBC",
+   "venue": "smith",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-28",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Orlando Magic",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-11-28",
+   "time": "",
+   "sport": "ncaaf",
+   "team": "Maryland Terrapins",
+   "opponent": "Penn State",
+   "venue": "secu",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-01",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Vancouver Canucks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-02",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "UMass Lowell",
+   "venue": "gtba",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-02",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Morgan State",
+   "venue": "mcd",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-02",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "American",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-03",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Long Island Nets",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2026-12-09",
+   "time": "11:30 AM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "College Park Skyhawks",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2026-12-09",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Rider",
+   "venue": "gtba",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-09",
+   "time": "8:30 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Michigan State",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-11",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "College Park Skyhawks",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2026-12-12",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Charlotte Hornets",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-12",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "North Carolina",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-12",
+   "time": "",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "Old Dominion",
+   "venue": "eagle",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-13",
+   "time": "1:00 PM",
+   "sport": "nfl",
+   "team": "Commanders",
+   "opponent": "Houston Texans",
+   "venue": "nw",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-15",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Greensboro Swarm",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2026-12-15",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Morgan State",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-16",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Sacred Heart",
+   "venue": "gtba",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-17",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Detroit Red Wings",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-17",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Davidson",
+   "venue": "mcd",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-18",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "New York Knicks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-19",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "St. Louis Blues",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-19",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Seton Hall",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2026-12-20",
+   "time": "1:00 PM",
+   "sport": "nfl",
+   "team": "Commanders",
+   "opponent": "Atlanta Falcons",
+   "venue": "nw",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-20",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Xavier",
+   "venue": "mcd",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2026-12-22",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Toronto Raptors",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-23",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Cleveland Cavaliers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-23",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Providence",
+   "venue": "mcd",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2026-12-26",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Columbus Blue Jackets",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-26",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Portland Trail Blazers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-28",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Edmonton Oilers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-29",
+   "time": "6:30 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Radford",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2026-12-30",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Xavier",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-01-01",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "San Antonio Spurs",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-02",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Ottawa Senators",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-02",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Creighton",
+   "venue": "mcd",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-01-02",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "UCLA",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-02",
+   "time": "",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Holy Cross",
+   "venue": "bender",
+   "tag": "Patriot League",
+   "note": ""
+  },
+  {
+   "date": "2027-01-02",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "South Carolina State",
+   "venue": "burr",
+   "tag": "MEAC",
+   "note": ""
+  },
+  {
+   "date": "2027-01-03",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "LA Clippers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-03",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Villanova",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-01-04",
+   "time": "7:30 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Toronto Maple Leafs",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-04",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Wisconsin Herd",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2027-01-05",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Los Angeles Lakers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-05",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "USC",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-06",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Wisconsin Herd",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2027-01-07",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Oklahoma City Thunder",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-08",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Minnesota Timberwolves",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-09",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Creighton",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-01-10",
+   "time": "",
+   "sport": "nfl",
+   "team": "Commanders",
+   "opponent": "Dallas Cowboys",
+   "venue": "nw",
+   "tag": "Finale",
+   "note": "Saturday Jan. 9 or Sunday Jan. 10; NFL sets the date late in the season"
+  },
+  {
+   "date": "2027-01-11",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Atlanta Hawks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-12",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Vegas Golden Knights",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-14",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Carolina Hurricanes",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-16",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Colorado Avalanche",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-16",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Illinois",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-17",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Indiana Pacers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-17",
+   "time": "6:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Maine Celtics",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2027-01-18",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Boston Celtics",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-19",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Montreal Canadiens",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-19",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Maine Celtics",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": ""
+  },
+  {
+   "date": "2027-01-19",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Rutgers",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-20",
+   "time": "",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Navy",
+   "venue": "bender",
+   "tag": "Patriot League",
+   "note": ""
+  },
+  {
+   "date": "2027-01-22",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "New York Islanders",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-23",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Providence",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-01-26",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "UConn",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-01-26",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Wisconsin",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-27",
+   "time": "",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Bucknell",
+   "venue": "bender",
+   "tag": "Patriot League",
+   "note": ""
+  },
+  {
+   "date": "2027-01-28",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Sacramento Kings",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-01-30",
+   "time": "",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Boston University",
+   "venue": "bender",
+   "tag": "Patriot League",
+   "note": ""
+  },
+  {
+   "date": "2027-02-02",
+   "time": "6:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Winnipeg Jets",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-03",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "DePaul",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-02-08",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Chicago Bulls",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-08",
+   "time": "",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Lehigh",
+   "venue": "bender",
+   "tag": "Patriot League",
+   "note": "Men's and women's doubleheader"
+  },
+  {
+   "date": "2027-02-09",
+   "time": "6:30 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Nebraska",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-10",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Miami Heat",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-12",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Brooklyn Nets",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-13",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Milwaukee Bucks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-13",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Butler",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-02-13",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Indiana",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-14",
+   "time": "1:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Utah Mammoth",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-15",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Phoenix Suns",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-16",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Anaheim Ducks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-17",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Miami Heat",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-19",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "San Jose Sharks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-20",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "St. John's",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-02-21",
+   "time": "6:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Nashville Predators",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-23",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "New York Rangers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-02-24",
+   "time": "6:30 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Minnesota",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-02",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Marquette",
+   "venue": "gtba",
+   "tag": "Big East",
+   "note": ""
+  },
+  {
+   "date": "2027-03-03",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Carolina Hurricanes",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-06",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Utah Jazz",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-07",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "Northwestern",
+   "venue": "xfin",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-09",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Calgary Flames",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-15",
+   "time": "1:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Tampa Bay Lightning",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-16",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "New York Knicks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-17",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "New York Islanders",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-18",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Philadelphia 76ers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-23",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Detroit Red Wings",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-24",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Denver Nuggets",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-25",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Philadelphia Phillies",
+   "venue": "nats",
+   "tag": "Opening Day",
+   "note": "Start of a six-game homestand that also brings the Mets and Braves"
+  },
+  {
+   "date": "2027-03-26",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Boston Bruins",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-27",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Golden State Warriors",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-28",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Dallas Mavericks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-30",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Chicago Blackhawks",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-03-31",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Chicago Bulls",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-04-02",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Philadelphia 76ers",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-04-03",
+   "time": "5:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Columbus Blue Jackets",
+   "venue": "cap",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-04-04",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Pittsburgh Penguins",
+   "venue": "cap",
+   "tag": "Home finale",
+   "note": ""
+  },
+  {
+   "date": "2027-04-09",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Boston Red Sox",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-04-09",
+   "time": "",
+   "sport": "oth",
+   "team": "NCAA Frozen Four",
+   "opponent": "National semifinals",
+   "venue": "cap",
+   "tag": "College hockey",
+   "note": ""
+  },
+  {
+   "date": "2027-04-10",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Boston Red Sox",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-04-11",
+   "time": "",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Detroit Pistons",
+   "venue": "cap",
+   "tag": "Home finale",
+   "note": ""
+  },
+  {
+   "date": "2027-04-11",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Boston Red Sox",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-04-11",
+   "time": "",
+   "sport": "oth",
+   "team": "NCAA Frozen Four",
+   "opponent": "National championship",
+   "venue": "cap",
+   "tag": "College hockey",
+   "note": ""
+  },
+  {
+   "date": "2027-04-23",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Los Angeles Dodgers",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-04-24",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Los Angeles Dodgers",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-04-25",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Los Angeles Dodgers",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-05-25",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Baltimore Orioles",
+   "venue": "nats",
+   "tag": "Beltway Series",
+   "note": ""
+  },
+  {
+   "date": "2027-05-26",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Baltimore Orioles",
+   "venue": "nats",
+   "tag": "Beltway Series",
+   "note": ""
+  },
+  {
+   "date": "2027-05-27",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Baltimore Orioles",
+   "venue": "nats",
+   "tag": "Beltway Series",
+   "note": ""
+  },
+  {
+   "date": "2027-07-02",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Athletics",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-07-03",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Athletics",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-07-04",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Athletics",
+   "venue": "nats",
+   "tag": "July 4th",
+   "note": ""
+  },
+  {
+   "date": "2027-07-06",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Milwaukee Brewers",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-07-07",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Milwaukee Brewers",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-07-08",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Milwaukee Brewers",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-07-09",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Philadelphia Phillies",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-07-10",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Philadelphia Phillies",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-07-11",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Philadelphia Phillies",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-09-21",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-09-22",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-09-23",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-09-24",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Philadelphia Phillies",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-09-25",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Philadelphia Phillies",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  },
+  {
+   "date": "2027-09-26",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Philadelphia Phillies",
+   "venue": "nats",
+   "tag": "",
+   "note": ""
+  }
+ ]
+}
