@@ -138,6 +138,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-hornets-washington-district-of-columbia-10-30-2026/event/15006505D7FCA178",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/10-30-2026-washington-district-of-columbia-capital-one-arena/nba/18485971",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -155,6 +160,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qE-_",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-football-tickets/ncaa-football/2026-10-31-12-pm/18035526",
      "checked": "2026-10-28"
     }
    ]
@@ -174,6 +184,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-wild-youth-hockey-day-washington-district-of-columbia-11-01-2026/event/150064F03474E2AE",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/11-1-2026-washington-district-of-columbia-capital-one-arena/nhl/18378834",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -191,6 +206,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/fan-appreciation-washington-spirit-vs-chicago-washington-district-of-columbia-11-01-2026/event/15006428D62784CA",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-spirit-tickets/national-womens-soccer/2026-11-01-5-pm/18014964",
      "checked": "2026-10-28"
     }
    ]
@@ -210,6 +230,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-philadelphia-eagles-landover-maryland-11-01-2026/event/1500647995125B72",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-commanders-tickets/11-1-2026-landover-maryland-northwest-stadium/nfl/18142257",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -228,6 +253,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-umbc-fairfax-virginia-11-02-2026/event/1500654DA03E66E2",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-11-02-4-pm/18575860",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -240,7 +270,14 @@
    "venue": "smith",
    "tag": "",
    "note": "",
-   "id": "espn:401913664"
+   "id": "espn:401913664",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2026-11-02-5-pm/18538156",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-02",
@@ -257,6 +294,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-loyola-washington-district-of-columbia-11-02-2026/event/150064FE99766737",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2026-11-02-6-30-pm/18333082",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -269,7 +311,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401921077"
+   "id": "espn:401921077",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2026-11-02-7-pm/18573736",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-02",
@@ -280,7 +329,14 @@
    "venue": "mcd",
    "tag": "Opener",
    "note": "",
-   "id": "espn:401919066"
+   "id": "espn:401919066",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-11-02-7-pm/18573780",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-02",
@@ -296,6 +352,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94Z",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2026-11-02-7-pm/18469987",
      "checked": "2026-10-28"
     }
    ]
@@ -315,6 +376,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-navy-washington-district-of-columbia-11-02-2026/event/1500653CA9AF839E",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2026-11-02-7-30-pm/18519354",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -332,6 +398,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-stars-first-responders-night-washington-district-of-columbia-11-03-2026/event/150064F03477E2BF",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/11-3-2026-washington-district-of-columbia-capital-one-arena/nhl/18378835",
      "checked": "2026-10-28"
     }
    ]
@@ -351,6 +422,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-hawks-washington-district-of-columbia-11-04-2026/event/15006505D801A185",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/11-4-2026-washington-district-of-columbia-capital-one-arena/nba/18494631",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -363,7 +439,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401921078"
+   "id": "espn:401921078",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2026-11-05-7-pm/18573737",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-05",
@@ -374,7 +457,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401919067"
+   "id": "espn:401919067",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-11-05-7-pm/18573781",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-05",
@@ -385,7 +475,14 @@
    "venue": "greene",
    "tag": "MEAC",
    "note": "",
-   "id": "espn:401867964"
+   "id": "espn:401867964",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-football-tickets/ncaa-football/2026-11-05-7-30-pm/18188444",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-06",
@@ -401,6 +498,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-coppin-state-fairfax-virginia-11-06-2026/event/1500654DA04266EA",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-11-06-7-pm/18575856",
      "checked": "2026-10-28"
     }
    ]
@@ -431,6 +533,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-panthers-rally-towel-giveaway-washington-district-of-columbia-11-07-2026/event/150064F0347BE2C8",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/11-7-2026-washington-district-of-columbia-capital-one-arena/nhl/18378836",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -448,6 +555,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/dc-united-vs-new-york-city-washington-district-of-columbia-11-07-2026/event/15006393CA1DA24A",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/d-c-united-tickets/mls/2026-11-07-4-pm/17920978",
      "checked": "2026-10-28"
     }
    ]
@@ -467,6 +579,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-hampton-washington-district-of-columbia-11-07-2026/event/1500653DA47383E4",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2026-11-07-6-pm/18578643",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -485,6 +602,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-maryland-washington-district-of-columbia-11-07-2026/event/150064FE99DD67E6",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2026-11-07-7-30-pm/18333078",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -501,6 +623,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/skyscanner-capital-showcase-presented-by-events-washington-district-of-columbia-11-08-2026/event/150064FEC844A918",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-showcase-tickets/ncaa-basketball/2026-11-08-1-pm/18519139",
      "checked": "2026-10-28"
     }
    ]
@@ -520,6 +647,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-los-angeles-rams-landover-maryland-11-08-2026/event/15006479954F5B9B",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-commanders-tickets/11-8-2026-landover-maryland-northwest-stadium/nfl/18142261",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -538,6 +670,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-K",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-11-08-1-pm/18536511",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -550,7 +687,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401919068"
+   "id": "espn:401919068",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-11-08-2-pm/18573786",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-10",
@@ -578,6 +722,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-elon-washington-district-of-columbia-11-10-2026/event/1500653DAE6B9AD6",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2026-11-10-7-pm/18519356",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -596,6 +745,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-georgetown-washington-district-of-columbia-11-11-2026/event/15006545BB1A8286",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2026-11-11-6-pm/18538162",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -613,6 +767,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-pistons-washington-district-of-columbia-11-12-2026/event/15006505D806A193",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/11-12-2026-washington-district-of-columbia-capital-one-arena/nba/18494632",
      "checked": "2026-10-28"
     }
    ]
@@ -643,6 +802,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-harvard-washington-district-of-columbia-11-13-2026/event/1500653DB0449E9F",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2026-11-13-7-pm/18519355",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -660,6 +824,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Poqs",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2026-11-13-8-pm/18312366",
      "checked": "2026-10-28"
     }
    ]
@@ -679,6 +848,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-YZ3",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-football-tickets/ncaa-football/2026-11-14-1-pm/18188446",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -691,7 +865,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401921079"
+   "id": "espn:401921079",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2026-11-14-3-pm/18573740",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-14",
@@ -707,6 +888,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-long-washington-district-of-columbia-11-14-2026/event/15006545BB1E828A",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2026-11-14-5-30-pm/18538163",
      "checked": "2026-10-28"
     }
    ]
@@ -726,6 +912,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-raptors-905-washington-district-of-columbia-11-14-2026/event/15006545C37C8F7C",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2026-11-14-7-pm/18541342",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -743,6 +934,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-devils-veterans-day-washington-district-of-columbia-11-14-2026/event/150064F0347EE2D4",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/11-14-2026-washington-district-of-columbia-capital-one-arena/nhl/18378840",
      "checked": "2026-10-28"
     }
    ]
@@ -762,6 +958,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OzaY",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-football-tickets/ncaa-football/2026-11-14-3-30-am/18035542",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -774,7 +975,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401912210"
+   "id": "espn:401912210",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2026-11-15-1-pm/18555972",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-15",
@@ -791,6 +999,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdf-",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-11-15-1-pm/18536513",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -803,7 +1016,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401919069"
+   "id": "espn:401919069",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-11-15-2-pm/18573787",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-15",
@@ -819,6 +1039,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-rockets-washington-district-of-columbia-11-15-2026/event/15006505D80BA19A",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/11-15-2026-washington-district-of-columbia-capital-one-arena/nba/18494634",
      "checked": "2026-10-28"
     }
    ]
@@ -838,6 +1063,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-ferrum-washington-district-of-columbia-11-16-2026/event/1500653DB4DBA7B0",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2026-11-16-12-pm/18519358",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -855,6 +1085,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-raptors-905-washington-district-of-columbia-11-16-2026/event/15006545C3808F86",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2026-11-16-2-pm/18541343",
      "checked": "2026-10-28"
     }
    ]
@@ -874,6 +1109,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94v",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2026-11-16-6-pm/18469990",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -891,6 +1131,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-grizzlies-ice-trae-young-washington-district-of-columbia-11-16-2026/event/15006505D811A19F",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/11-16-2026-washington-district-of-columbia-capital-one-arena/nba/18494635",
      "checked": "2026-10-28"
     }
    ]
@@ -910,6 +1155,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-temple-washington-district-of-columbia-11-17-2026/event/15006545BB228292",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2026-11-17-6-pm/18538164",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -922,7 +1172,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919466"
+   "id": "espn:401919466",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2026-11-18-6-pm/18676367",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-18",
@@ -938,6 +1195,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdf4",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-11-18-6-pm/18536514",
      "checked": "2026-10-28"
     }
    ]
@@ -957,6 +1219,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-navy-washington-district-of-columbia-11-18-2026/event/150064FE9A296846",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2026-11-18-6-30-pm/18333088",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -975,6 +1242,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-north-carolina-central-fairfax-virginia-11-18-2026/event/1500654DA04666F3",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-11-18-7-pm/18575857",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -987,7 +1259,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401929152"
+   "id": "espn:401929152",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2026-11-18-7-pm/18676197",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-19",
@@ -998,7 +1277,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401912211"
+   "id": "espn:401912211",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2026-11-19-7-pm/18555974",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-19",
@@ -1015,6 +1301,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-sabres-hockey-fights-cancer-washington-district-of-columbia-11-19-2026/event/150064F03482E2DA",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/11-19-2026-washington-district-of-columbia-capital-one-arena/nhl/18378841",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1027,7 +1318,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401913668"
+   "id": "espn:401913668",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2026-11-20-7-pm/18676195",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-20",
@@ -1044,6 +1342,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94e",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2026-11-20-7-pm/18469989",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1056,7 +1359,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401918678"
+   "id": "espn:401918678",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2026-11-21-12-pm/18573745",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-21",
@@ -1073,6 +1383,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdfb",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-11-21-12-pm/18536515",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1085,7 +1400,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919467"
+   "id": "espn:401919467",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2026-11-21-1-pm/18676368",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-21",
@@ -1101,6 +1423,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-south-florida-fairfax-virginia-11-21-2026/event/1500654DA04A66FF",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-11-21-4-pm/18575861",
      "checked": "2026-10-28"
     }
    ]
@@ -1130,6 +1457,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/2026-nwsl-championship-presented-by-google-washington-district-of-columbia-11-21-2026/event/15006516DC0B17DC",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/nwsl-championship-tickets/national-womens-soccer/2026-11-21-8-pm/18283203",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1142,7 +1474,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401912212"
+   "id": "espn:401912212",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2026-11-22-1-pm/18555975",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-22",
@@ -1158,6 +1497,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-magic-washington-district-of-columbia-11-22-2026/event/15006505D816A1B5",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/11-22-2026-washington-district-of-columbia-capital-one-arena/nba/18494640",
      "checked": "2026-10-28"
     }
    ]
@@ -1176,6 +1520,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-cincinnati-bengals-landover-maryland-11-23-2026/event/1500647995965BFB",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-commanders-tickets/11-23-2026-landover-maryland-northwest-stadium/nfl/18142264",
      "checked": "2026-10-28"
     }
    ]
@@ -1206,6 +1555,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-long-island-washington-district-of-columbia-11-24-2026/event/15006545C3848F8E",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2026-11-24-2-pm/18684878",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1223,6 +1577,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdf9",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-11-24-7-pm/18536521",
      "checked": "2026-10-28"
     }
    ]
@@ -1242,6 +1601,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-celtics-washington-district-of-columbia-11-24-2026/event/15006505D81BA1C1",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/11-24-2026-washington-district-of-columbia-capital-one-arena/nba/18485973",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1259,6 +1623,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-flyers-capsgiving-hockey-rink-washington-district-of-columbia-11-25-2026/event/150064F03485E2E3",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/11-25-2026-washington-district-of-columbia-capital-one-arena/nhl/18378845",
      "checked": "2026-10-28"
     }
    ]
@@ -1278,6 +1647,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-longwood-fairfax-virginia-11-25-2026/event/1500654DA04E6707",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-11-25-7-pm/18575859",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1296,6 +1670,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-panthers-washington-district-of-columbia-11-27-2026/event/150064F03608E5EB",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/11-27-2026-washington-district-of-columbia-capital-one-arena/nhl/18378846",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1308,7 +1687,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401912213"
+   "id": "espn:401912213",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2026-11-27-4-pm/18555973",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-27",
@@ -1324,6 +1710,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-umbc-washington-district-of-columbia-11-27-2026/event/1500653DB599A8E5",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2026-11-27-4-pm/18519357",
      "checked": "2026-10-28"
     }
    ]
@@ -1343,6 +1734,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-st-washington-district-of-columbia-11-28-2026/event/15006545BB26829D",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2026-11-28-2-pm/18538166",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1361,6 +1757,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-marist-fairfax-virginia-11-28-2026/event/1500654DA053670D",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-11-28-2-pm/18575869",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1373,7 +1774,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401912214"
+   "id": "espn:401912214",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2026-11-28-4-pm/18555977",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-28",
@@ -1389,6 +1797,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-magic-washington-district-of-columbia-11-28-2026/event/15006505D820A1C4",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/11-28-2026-washington-district-of-columbia-capital-one-arena/nba/18494641",
      "checked": "2026-10-28"
     }
    ]
@@ -1408,6 +1821,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ozas",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-football-tickets/ncaa-football/2026-11-28-3-30-am/18035544",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1420,7 +1838,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401912215"
+   "id": "espn:401912215",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2026-11-29-4-pm/18555976",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-11-30",
@@ -1431,7 +1856,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919468"
+   "id": "espn:401919468",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2026-11-30-6-pm/18676366",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-01",
@@ -1447,6 +1879,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdf_",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-12-01-6-30-pm/18536523",
      "checked": "2026-10-28"
     }
    ]
@@ -1466,6 +1903,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-canucks-beanie-giveaway-washington-district-of-columbia-12-01-2026/event/150064F0360CE5F2",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/12-1-2026-washington-district-of-columbia-capital-one-arena/nhl/18378847",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1483,6 +1925,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-southeastern-washington-district-of-columbia-12-01-2026/event/1500653DE9D8295F",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2026-12-01-7-pm/18519365",
      "checked": "2026-10-28"
     }
    ]
@@ -1502,6 +1949,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-duquesne-washington-district-of-columbia-12-02-2026/event/15006545BB2B82A8",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2026-12-02-6-pm/18654686",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1520,6 +1972,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-umass-washington-district-of-columbia-12-02-2026/event/150064FE9B52699A",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2026-12-02-6-30-pm/18333092",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1532,7 +1989,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401919071"
+   "id": "espn:401919071",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-12-02-7-pm/18573790",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-02",
@@ -1548,6 +2012,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94d",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2026-12-02-7-pm/18469988",
      "checked": "2026-10-28"
     }
    ]
@@ -1566,6 +2035,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-long-island-washington-district-of-columbia-12-03-2026/event/15006545C3888F9B",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2026-12-03-7-pm/18541345",
      "checked": "2026-10-28"
     }
    ]
@@ -1590,7 +2064,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401927939"
+   "id": "espn:401927939",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2026-12-04-7-pm/18676196",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-05",
@@ -1606,6 +2087,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-liu-washington-district-of-columbia-12-05-2026/event/1500653DED6431A9",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2026-12-05-2-pm/18578645",
      "checked": "2026-10-28"
     }
    ]
@@ -1630,7 +2116,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919470"
+   "id": "espn:401919470",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2026-12-06-1-pm/18676364",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-06",
@@ -1641,7 +2134,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401923116"
+   "id": "espn:401923116",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-12-06-2-pm/18602799",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-06",
@@ -1652,7 +2152,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401927943"
+   "id": "espn:401927943",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2026-12-06-2-pm/18676199",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-07",
@@ -1668,6 +2175,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdff",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-12-07-7-pm/18536524",
      "checked": "2026-10-28"
     }
    ]
@@ -1687,6 +2199,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-loyola-washington-district-of-columbia-12-08-2026/event/15006545BB2F82C2",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2026-12-08-6-pm/18538167",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1704,6 +2221,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-morgan-state-fairfax-virginia-12-08-2026/event/1500654DA0576718",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-12-08-7-pm/18575868",
      "checked": "2026-10-28"
     }
    ]
@@ -1723,6 +2245,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-college-park-washington-district-of-columbia-12-09-2026/event/15006545DA09B366",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2026-12-09-11-30-am/18541348",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1740,6 +2267,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-rider-washington-district-of-columbia-12-09-2026/event/150064FE9E226ED7",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2026-12-09-6-30-pm/18333094",
      "checked": "2026-10-28"
     }
    ]
@@ -1759,6 +2291,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-american-washington-district-of-columbia-12-09-2026/event/1500653EA2728993",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2026-12-09-7-pm/18519366",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1776,6 +2313,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_K",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2026-12-09-8-30-pm/18599613",
      "checked": "2026-10-28"
     }
    ]
@@ -1806,6 +2348,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-college-park-washington-district-of-columbia-12-11-2026/event/15006545C38E8FA6",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2026-12-11-7-pm/18541349",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1823,6 +2370,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-k",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-12-11-7-pm/18599975",
      "checked": "2026-10-28"
     }
    ]
@@ -1842,6 +2394,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-north-washington-district-of-columbia-12-12-2026/event/150064FEA03D719A",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2026-12-12-12-pm/18333096",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1859,6 +2416,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-old-dominion-fairfax-virginia-12-12-2026/event/1500654DA05C671F",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-12-12-12-30-pm/18575870",
      "checked": "2026-10-28"
     }
    ]
@@ -1878,6 +2440,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-rider-washington-district-of-columbia-12-12-2026/event/15006545BB3382C7",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2026-12-12-2-pm/18538171",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1895,6 +2462,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-hornets-tre-johnson-iii-washington-district-of-columbia-12-12-2026/event/15006505D82BA1D1",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/12-12-2026-washington-district-of-columbia-capital-one-arena/nba/18494644",
      "checked": "2026-10-28"
     }
    ]
@@ -1914,6 +2486,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdfx",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-12-13-12-pm/18536525",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1932,6 +2509,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-houston-texans-landover-maryland-12-13-2026/event/1500647995775BD7",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-commanders-tickets/12-13-2026-landover-maryland-northwest-stadium/nfl/18142265",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1944,7 +2526,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401919072"
+   "id": "espn:401919072",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-12-13-2-pm/18573791",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-14",
@@ -1972,6 +2561,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-greensboro-swarm-washington-district-of-columbia-12-15-2026/event/15006545C3928FAB",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2026-12-15-7-pm/18541353",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -1989,6 +2583,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ947",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2026-12-15-8-pm/18469997",
      "checked": "2026-10-28"
     }
    ]
@@ -2008,6 +2607,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-sacred-washington-district-of-columbia-12-16-2026/event/150064FEA1A97355",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2026-12-16-6-30-pm/18333098",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2026,6 +2630,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-red-wings-caps-holiday-washington-district-of-columbia-12-17-2026/event/150064F0360FE5FE",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/12-17-2026-washington-district-of-columbia-capital-one-arena/nhl/18378850",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2038,7 +2647,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401919073"
+   "id": "espn:401919073",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-12-17-7-pm/18573792",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-17",
@@ -2066,6 +2682,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdfO",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-12-18-11-am/18536529",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2083,6 +2704,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-knicks-washington-district-of-columbia-12-18-2026/event/15006505D830A1DB",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/12-18-2026-washington-district-of-columbia-capital-one-arena/nba/18494645",
      "checked": "2026-10-28"
     }
    ]
@@ -2102,6 +2728,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-seton-washington-district-of-columbia-12-19-2026/event/15006532ABDFA5E4",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2026-12-19-12-pm/18589252",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2119,6 +2750,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-blues-caps-holiday-party-washington-district-of-columbia-12-19-2026/event/150064F03613E60E",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/12-19-2026-washington-district-of-columbia-capital-one-arena/nhl/18378853",
      "checked": "2026-10-28"
     }
    ]
@@ -2138,6 +2774,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-atlanta-falcons-landover-maryland-12-20-2026/event/1500647995A85C2E",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-commanders-tickets/12-20-2026-landover-maryland-northwest-stadium/nfl/18142263",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2150,7 +2791,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401919631"
+   "id": "espn:401919631",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2026-12-20-1-pm/18573746",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-20",
@@ -2161,7 +2809,14 @@
    "venue": "mcd",
    "tag": "Big East",
    "note": "",
-   "id": "espn:401923021"
+   "id": "espn:401923021",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-12-20-2-pm/18602800",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-21",
@@ -2177,6 +2832,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-maine-washington-district-of-columbia-12-21-2026/event/15006545BB3782D0",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2026-12-21-1-pm/18538174",
      "checked": "2026-10-28"
     }
    ]
@@ -2196,6 +2856,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-bryant-fairfax-virginia-12-22-2026/event/1500654DA0606731",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-12-22-7-pm/18575871",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2214,6 +2879,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-raptors-washington-district-of-columbia-12-22-2026/event/15006505D835A1E3",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/12-22-2026-washington-district-of-columbia-capital-one-arena/nba/18494646",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2226,7 +2896,14 @@
    "venue": "mcd",
    "tag": "Big East",
    "note": "",
-   "id": "espn:401923023"
+   "id": "espn:401923023",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2026-12-23-12-pm/18602798",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-23",
@@ -2242,6 +2919,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-cavaliers-washington-district-of-columbia-12-23-2026/event/15006505D839A1E9",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/12-23-2026-washington-district-of-columbia-capital-one-arena/nba/18494650",
      "checked": "2026-10-28"
     }
    ]
@@ -2261,6 +2943,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-trail-blazers-washington-district-of-columbia-12-26-2026/event/15006505D83EA1EF",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/12-26-2026-washington-district-of-columbia-capital-one-arena/nba/18494652",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2278,6 +2965,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-blue-jackets-washington-district-of-columbia-12-26-2026/event/150064F03616E616",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/12-26-2026-washington-district-of-columbia-capital-one-arena/nhl/18378854",
      "checked": "2026-10-28"
     }
    ]
@@ -2297,6 +2989,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-mcdaniel-fairfax-virginia-12-27-2026/event/1500654DA064673C",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-12-27-4-pm/18575874",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2314,6 +3011,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-oilers-washington-district-of-columbia-12-28-2026/event/150064F0361AE621",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/12-28-2026-washington-district-of-columbia-capital-one-arena/nhl/18378857",
      "checked": "2026-10-28"
     }
    ]
@@ -2333,6 +3035,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94A",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2026-12-29-6-30-pm/18469998",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2345,7 +3052,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401928875"
+   "id": "espn:401928875",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2026-12-30-12-pm/18654669",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2026-12-30",
@@ -2361,6 +3075,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-6",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2026-12-30-4-pm/18599976",
      "checked": "2026-10-28"
     }
    ]
@@ -2380,6 +3099,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-richmond-fairfax-virginia-12-30-2026/event/1500654DA0686747",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2026-12-30-7-pm/18632789",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2397,6 +3121,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-xavier-washington-district-of-columbia-12-30-2026/event/15006531D5B90E9D",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2026-12-30-8-pm/18589253",
      "checked": "2026-10-28"
     }
    ]
@@ -2427,6 +3156,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-spurs-washington-district-of-columbia-01-01-2027/event/15006505D843A1F6",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/1-1-2027-washington-district-of-columbia-capital-one-arena/nba/18494653",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2439,7 +3173,14 @@
    "venue": "bender",
    "tag": "Patriot League",
    "note": "",
-   "id": "espn:401921292"
+   "id": "espn:401921292",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2027-01-02-2-pm/18555984",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-02",
@@ -2450,7 +3191,14 @@
    "venue": "mcd",
    "tag": "Big East",
    "note": "",
-   "id": "espn:401923031"
+   "id": "espn:401923031",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2027-01-02-2-pm/18602801",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-02",
@@ -2461,7 +3209,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401925986"
+   "id": "espn:401925986",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2027-01-02-2-pm/18676198",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-02",
@@ -2472,7 +3227,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401928883"
+   "id": "espn:401928883",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2027-01-02-3-pm/18654670",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-02",
@@ -2488,6 +3250,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-saint-washington-district-of-columbia-01-02-2027/event/1500653EE7AF2E00",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2027-01-02-4-pm/18632566",
      "checked": "2026-10-28"
     }
    ]
@@ -2518,6 +3285,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_f",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2027-01-02-6-pm/18599614",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2535,6 +3307,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-senators-women-in-sports-washington-district-of-columbia-01-02-2027/event/150064F035E9E5B9",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/1-2-2027-washington-district-of-columbia-capital-one-arena/nhl/18378858",
      "checked": "2026-10-28"
     }
    ]
@@ -2554,6 +3331,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-villanova-washington-district-of-columbia-01-03-2027/event/1500653297687734",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2027-01-03-12-pm/18589254",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2571,6 +3353,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-clippers-washington-district-of-columbia-01-03-2027/event/15006505D848A1FE",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/1-3-2027-washington-district-of-columbia-capital-one-arena/nba/18494654",
      "checked": "2026-10-28"
     }
    ]
@@ -2590,6 +3377,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-wisconsin-herd-washington-district-of-columbia-01-04-2027/event/15006545C3388EEA",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-01-04-7-pm/18541355",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2607,6 +3399,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-maple-leafs-washington-district-of-columbia-01-04-2027/event/150064F035ECE5BE",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/1-4-2027-washington-district-of-columbia-capital-one-arena/nhl/18378860",
      "checked": "2026-10-28"
     }
    ]
@@ -2626,6 +3423,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-lakers-washington-district-of-columbia-01-05-2027/event/15006505D84DA206",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/1-5-2027-washington-district-of-columbia-capital-one-arena/nba/18494657",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2644,6 +3446,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_4",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2027-01-05-8-pm/18599618",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2656,7 +3463,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919473"
+   "id": "espn:401919473",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2027-01-06-6-pm/18676365",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-06",
@@ -2672,6 +3486,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-st-washington-district-of-columbia-01-06-2027/event/15006545BAF08235",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2027-01-06-6-pm/18654690",
      "checked": "2026-10-28"
     }
    ]
@@ -2691,6 +3510,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-wisconsin-herd-washington-district-of-columbia-01-06-2027/event/15006545C33C8EF3",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-01-06-7-pm/18541358",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2708,6 +3532,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-fordham-fairfax-virginia-01-06-2027/event/1500654DA0176676",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2027-01-06-7-pm/18632785",
      "checked": "2026-10-28"
     }
    ]
@@ -2727,6 +3556,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-thunder-washington-district-of-columbia-01-07-2027/event/15006505D852A20A",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/1-7-2027-washington-district-of-columbia-capital-one-arena/nba/18494660",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2744,6 +3578,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-timberwolves-washington-district-of-columbia-01-08-2027/event/15006505D857A20E",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/1-8-2027-washington-district-of-columbia-capital-one-arena/nba/18494661",
      "checked": "2026-10-28"
     }
    ]
@@ -2763,6 +3602,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-8",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2027-01-08-8-pm/18599977",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2780,6 +3624,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-creighton-washington-district-of-columbia-01-09-2027/event/150065329F7E898F",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2027-01-09-12-pm/18589255",
      "checked": "2026-10-28"
     }
    ]
@@ -2799,6 +3648,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-virginia-washington-district-of-columbia-01-09-2027/event/1500653EEF2A409B",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2027-01-09-2-pm/18632568",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2811,7 +3665,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401919634"
+   "id": "espn:401919634",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2027-01-09-2-pm/18676205",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-09",
@@ -2822,7 +3683,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401928900"
+   "id": "espn:401928900",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2027-01-09-3-pm/18654673",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-09",
@@ -2833,7 +3701,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401924927"
+   "id": "espn:401924927",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2027-01-09-4-pm/18555985",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-09",
@@ -2861,6 +3736,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-davidson-washington-district-of-columbia-01-10-2027/event/15006545BAF68249",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2027-01-10-12-pm/18654691",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2873,7 +3753,14 @@
    "venue": "nw",
    "tag": "Finale",
    "note": "Saturday Jan. 9 or Sunday Jan. 10; NFL sets the date late in the season",
-   "id": "espn:401873175"
+   "id": "espn:401873175",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-commanders-tickets/1-10-2027-landover-maryland-northwest-stadium/nfl/18142259",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-11",
@@ -2889,6 +3776,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-hawks-washington-district-of-columbia-01-11-2027/event/15006505D85CA215",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/1-11-2027-washington-district-of-columbia-capital-one-arena/nba/18494664",
      "checked": "2026-10-28"
     }
    ]
@@ -2908,6 +3800,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-golden-knights-ovechkin-bobblehead-washington-district-of-columbia-01-12-2027/event/150064F035F0E5C1",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/1-12-2027-washington-district-of-columbia-capital-one-arena/nhl/18378863",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2920,7 +3817,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919475"
+   "id": "espn:401919475",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2027-01-13-6-pm/18676369",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-13",
@@ -2936,6 +3840,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-fordham-washington-district-of-columbia-01-13-2027/event/15006545BAFB8254",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2027-01-13-6-pm/18654692",
      "checked": "2026-10-28"
     }
    ]
@@ -2955,6 +3864,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-st-bonaventure-fairfax-virginia-01-13-2027/event/1500654DA01B6686",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2027-01-13-7-pm/18632790",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2967,7 +3881,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401923049"
+   "id": "espn:401923049",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2027-01-13-7-pm/18602803",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-14",
@@ -2984,6 +3905,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-hurricanes-country-music-night-washington-district-of-columbia-01-14-2027/event/150064F035F3E5C4",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/1-14-2027-washington-district-of-columbia-capital-one-arena/nhl/18378865",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -2996,7 +3922,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919476"
+   "id": "espn:401919476",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2027-01-16-1-pm/18676376",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-16",
@@ -3007,7 +3940,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401930222"
+   "id": "espn:401930222",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2027-01-16-2-pm/18676207",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-16",
@@ -3023,6 +3963,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_p",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2027-01-16-2-pm/18599620",
      "checked": "2026-10-28"
     }
    ]
@@ -3041,6 +3986,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-avalanche-fan-designed-rally-washington-district-of-columbia-01-16-2027/event/150064F035F7E5CA",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/1-16-2027-washington-district-of-columbia-capital-one-arena/nhl/18378866",
      "checked": "2026-10-28"
     }
    ]
@@ -3071,6 +4021,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-pacers-will-riley-designed-washington-district-of-columbia-01-17-2027/event/15006505D860A21D",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/1-17-2027-washington-district-of-columbia-capital-one-arena/nba/18494665",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3088,6 +4043,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-maine-celtics-washington-district-of-columbia-01-17-2027/event/15006545C3408EFC",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-01-17-6-pm/18541359",
      "checked": "2026-10-28"
     }
    ]
@@ -3107,6 +4067,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-george-washington-district-of-columbia-01-18-2027/event/1500653EF1AF47BF",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2027-01-18-1-pm/18632567",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3124,6 +4089,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-celtics-washington-district-of-columbia-01-18-2027/event/15006505D865A21F",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/1-18-2027-washington-district-of-columbia-capital-one-arena/nba/18494666",
      "checked": "2026-10-28"
     }
    ]
@@ -3154,6 +4124,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-maine-celtics-washington-district-of-columbia-01-19-2027/event/15006545C3458F01",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-01-19-7-pm/18541361",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3171,6 +4146,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-canadiens-pride-washington-district-of-columbia-01-19-2027/event/150064F035FAE5D1",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/1-19-2027-washington-district-of-columbia-capital-one-arena/nhl/18378869",
      "checked": "2026-10-28"
     }
    ]
@@ -3190,6 +4170,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_9",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2027-01-19-7-pm/18599623",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3202,7 +4187,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401923058"
+   "id": "espn:401923058",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2027-01-20-11-am/18602802",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-20",
@@ -3219,6 +4211,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-virginia-washington-district-of-columbia-01-20-2027/event/15006545BB008258",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2027-01-20-6-pm/18654696",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3231,7 +4228,14 @@
    "venue": "bender",
    "tag": "Patriot League",
    "note": "",
-   "id": "espn:401921253"
+   "id": "espn:401921253",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2027-01-20-7-pm/18555988",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-20",
@@ -3242,7 +4246,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401928915"
+   "id": "espn:401928915",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2027-01-20-7-pm/18654674",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-21",
@@ -3253,7 +4264,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401919603"
+   "id": "espn:401919603",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2027-01-21-6-pm/18676209",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-21",
@@ -3269,6 +4287,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-windy-city-washington-district-of-columbia-01-21-2027/event/15006545C3498F04",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-01-21-7-pm/18541363",
      "checked": "2026-10-28"
     }
    ]
@@ -3288,6 +4311,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-A",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2027-01-21-7-pm/18599979",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3305,6 +4333,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-windy-city-washington-district-of-columbia-01-22-2027/event/15006545C34D8F15",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-01-22-7-pm/18541365",
      "checked": "2026-10-28"
     }
    ]
@@ -3324,6 +4357,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-islanders-margaritaville-washington-district-of-columbia-01-22-2027/event/150064F035FEE5D8",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/1-22-2027-washington-district-of-columbia-capital-one-arena/nhl/18378870",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3336,7 +4374,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919478"
+   "id": "espn:401919478",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2027-01-23-1-pm/18676375",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-23",
@@ -3352,6 +4397,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-providence-washington-district-of-columbia-01-23-2027/event/15006532A0378AD7",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2027-01-23-6-pm/18589261",
      "checked": "2026-10-28"
     }
    ]
@@ -3371,6 +4421,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-loyola-chicago-fairfax-virginia-01-23-2027/event/1500654DA02066A3",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2027-01-23-2-30-pm/18632786",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3389,6 +4444,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-o",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2027-01-24-12-pm/18599980",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3401,7 +4461,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401925762"
+   "id": "espn:401925762",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-mens-basketball-tickets/ncaa-basketball/2027-01-25-7-pm/18666051",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-26",
@@ -3417,6 +4484,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_b",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2027-01-26-7-pm/18599624",
      "checked": "2026-10-28"
     }
    ]
@@ -3436,6 +4508,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-connecticut-washington-district-of-columbia-01-26-2027/event/15006532A1058CE2",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2027-01-26-8-pm/18589260",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3448,7 +4525,14 @@
    "venue": "bender",
    "tag": "Patriot League",
    "note": "",
-   "id": "espn:401924929"
+   "id": "espn:401924929",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2027-01-27-7-pm/18555989",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-27",
@@ -3465,6 +4549,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-richmond-washington-district-of-columbia-01-27-2027/event/1500653EF4574E86",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2027-01-27-7-pm/18632569",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3477,7 +4566,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401928929"
+   "id": "espn:401928929",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2027-01-27-7-pm/18654677",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-28",
@@ -3493,6 +4589,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-kings-washington-district-of-columbia-01-28-2027/event/15006505D86AA228",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/1-28-2027-washington-district-of-columbia-capital-one-arena/nba/18494667",
      "checked": "2026-10-28"
     }
    ]
@@ -3512,6 +4613,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-grand-rapids-washington-district-of-columbia-01-29-2027/event/15006545C3518F1C",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-01-29-2-pm/18541366",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3524,7 +4630,14 @@
    "venue": "bender",
    "tag": "Patriot League",
    "note": "",
-   "id": "espn:401923410"
+   "id": "espn:401923410",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2027-01-30-2-pm/18555990",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-30",
@@ -3541,6 +4654,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-la-washington-district-of-columbia-01-30-2027/event/15006545BB058262",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2027-01-30-2-pm/18654697",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3553,7 +4671,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401923070"
+   "id": "espn:401923070",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2027-01-30-2-pm/18602810",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-01-30",
@@ -3569,6 +4694,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-st-josephs-fairfax-virginia-01-30-2027/event/1500654DA02466AE",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2027-01-30-4-30-pm/18632787",
      "checked": "2026-10-28"
     }
    ]
@@ -3588,6 +4718,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-westchester-knicks-washington-district-of-columbia-01-30-2027/event/15006545C3578F27",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-01-30-7-pm/18541370",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3605,6 +4740,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-a",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2027-02-01-7-pm/18599985",
      "checked": "2026-10-28"
     }
    ]
@@ -3624,6 +4764,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-jets-alex-tuch-designed-washington-district-of-columbia-02-02-2027/event/150064F03601E5DD",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/2-2-2027-washington-district-of-columbia-capital-one-arena/nhl/18378872",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3636,7 +4781,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919481"
+   "id": "espn:401919481",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2027-02-03-6-pm/18676380",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-03",
@@ -3653,6 +4805,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-duquesne-washington-district-of-columbia-02-03-2027/event/1500653EF4E44FCF",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2027-02-03-7-pm/18632571",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3665,7 +4822,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401928946"
+   "id": "espn:401928946",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2027-02-03-7-pm/18654680",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-03",
@@ -3681,6 +4845,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-depaul-washington-district-of-columbia-02-03-2027/event/15006532A29A9066",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2027-02-03-8-30-pm/18589263",
      "checked": "2026-10-28"
     }
    ]
@@ -3700,6 +4869,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-pelicans-washington-district-of-columbia-02-04-2027/event/15006505D86FA235",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/2-4-2027-washington-district-of-columbia-capital-one-arena/nba/18494672",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3717,6 +4891,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-delaware-blue-washington-district-of-columbia-02-05-2027/event/15006545C35B8F39",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-02-05-7-pm/18541371",
      "checked": "2026-10-28"
     }
    ]
@@ -3736,6 +4915,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-george-washington-fairfax-virginia-02-06-2027/event/1500654DA02866BA",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2027-02-06-12-pm/18632788",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3748,7 +4932,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401921280"
+   "id": "espn:401921280",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2027-02-06-4-pm/18555991",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-07",
@@ -3759,7 +4950,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401928951"
+   "id": "espn:401928951",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2027-02-07-2-pm/18654681",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-07",
@@ -3775,6 +4973,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-delaware-blue-washington-district-of-columbia-02-07-2027/event/15006545C35F8F42",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-02-07-3-pm/18541372",
      "checked": "2026-10-28"
     }
    ]
@@ -3794,6 +4997,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-bulls-john-thompson-jr-washington-district-of-columbia-02-08-2027/event/15006505D874A240",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/2-8-2027-washington-district-of-columbia-capital-one-arena/nba/18494674",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3806,7 +5014,14 @@
    "venue": "bender",
    "tag": "Patriot League",
    "note": "Men's and women's doubleheader",
-   "id": "espn:401924931"
+   "id": "espn:401924931",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2027-02-08-7-pm/18555996",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-08",
@@ -3817,7 +5032,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919483"
+   "id": "espn:401919483",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2027-02-08-4-30-pm/18676381",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-09",
@@ -3834,6 +5056,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV__",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2027-02-09-6-30-pm/18599626",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3846,7 +5073,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401928955"
+   "id": "espn:401928955",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2027-02-10-7-pm/18654683",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-10",
@@ -3857,7 +5091,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401923087"
+   "id": "espn:401923087",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2027-02-10-7-pm/18602811",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-10",
@@ -3874,6 +5115,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-heat-washington-district-of-columbia-02-10-2027/event/15006505D87AA249",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/2-10-2027-washington-district-of-columbia-capital-one-arena/nba/18494675",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3886,7 +5132,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401930223"
+   "id": "espn:401930223",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2027-02-11-6-pm/18676212",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-12",
@@ -3902,6 +5155,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-nets-washington-district-of-columbia-02-12-2027/event/15006505D87FA254",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/2-12-2027-washington-district-of-columbia-capital-one-arena/nba/18494676",
      "checked": "2026-10-28"
     }
    ]
@@ -3921,6 +5179,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-butler-washington-district-of-columbia-02-13-2027/event/15006532A53F982A",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2027-02-13-12-pm/18589262",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3939,6 +5202,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_-",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2027-02-13-12-pm/18599628",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -3951,7 +5219,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919484"
+   "id": "espn:401919484",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2027-02-13-6-pm/18676384",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-13",
@@ -3986,6 +5261,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-la-washington-district-of-columbia-02-13-2027/event/1500653EF8665A3D",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2027-02-13-6-pm/18632570",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4003,6 +5283,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-bucks-washington-district-of-columbia-02-13-2027/event/15006505D885A257",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/2-13-2027-washington-district-of-columbia-capital-one-arena/nba/18494678",
      "checked": "2026-10-28"
     }
    ]
@@ -4022,6 +5307,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-F",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2027-02-14-12-pm/18599987",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4040,6 +5330,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-mammoth-heart-health-awareness-washington-district-of-columbia-02-14-2027/event/150064F03605E5E3",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/2-14-2027-washington-district-of-columbia-capital-one-arena/nhl/18378875",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4057,6 +5352,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-suns-washington-district-of-columbia-02-15-2027/event/15006505D88AA261",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/2-15-2027-washington-district-of-columbia-capital-one-arena/nba/18494679",
      "checked": "2026-10-28"
     }
    ]
@@ -4087,6 +5387,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-noblesville-boom-washington-district-of-columbia-02-16-2027/event/15006545C3638F53",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-02-16-7-pm/18541374",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4104,6 +5409,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-ducks-star-wars-night-washington-district-of-columbia-02-16-2027/event/150064F03799E836",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/2-16-2027-washington-district-of-columbia-capital-one-arena/nhl/18378877",
      "checked": "2026-10-28"
     }
    ]
@@ -4123,6 +5433,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-dayton-washington-district-of-columbia-02-16-2027/event/1500653EF8E45B8C",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2027-02-16-7-pm/18632578",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4135,7 +5450,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401924932"
+   "id": "espn:401924932",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2027-02-17-7-pm/18555997",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-17",
@@ -4151,6 +5473,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-la-salle-fairfax-virginia-02-17-2027/event/1500654DA02C66BE",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2027-02-17-7-pm/18632797",
      "checked": "2026-10-28"
     }
    ]
@@ -4170,6 +5497,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-3",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2027-02-17-7-pm/18599989",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4188,6 +5520,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-heat-cherry-blossom-sling-washington-district-of-columbia-02-17-2027/event/15006505D88FA26E",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/2-17-2027-washington-district-of-columbia-capital-one-arena/nba/18494684",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4205,6 +5542,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-noblesville-boom-washington-district-of-columbia-02-18-2027/event/15006545C3688F5E",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-02-18-7-pm/18541377",
      "checked": "2026-10-28"
     }
    ]
@@ -4235,6 +5577,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-sharks-celebrating-black-history-washington-district-of-columbia-02-19-2027/event/150064F0379DE83D",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/2-19-2027-washington-district-of-columbia-capital-one-arena/nhl/18378878",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4252,6 +5599,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-st-washington-district-of-columbia-02-20-2027/event/15006532A6CC9B3E",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2027-02-20-1-pm/18589268",
      "checked": "2026-10-28"
     }
    ]
@@ -4271,6 +5623,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-george-washington-district-of-columbia-02-20-2027/event/15006545BB0F8274",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2027-02-20-2-pm/18654701",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4283,7 +5640,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401920795"
+   "id": "espn:401920795",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-mens-basketball-tickets/ncaa-basketball/2027-02-21-2-pm/18556000",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-21",
@@ -4300,6 +5664,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-predators-kids-day-washington-district-of-columbia-02-21-2027/event/150064F037A0E83F",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/2-21-2027-washington-district-of-columbia-capital-one-arena/nhl/18378879",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4312,7 +5681,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919487"
+   "id": "espn:401919487",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2027-02-23-6-pm/18676385",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-23",
@@ -4328,6 +5704,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-rangers-magic-gr8-ball-washington-district-of-columbia-02-23-2027/event/150064F037A4E844",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/2-23-2027-washington-district-of-columbia-capital-one-arena/nhl/18378881",
      "checked": "2026-10-28"
     }
    ]
@@ -4347,6 +5728,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-university-washington-district-of-columbia-02-24-2027/event/15006545BB148280",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-womens-basketball-tickets/ncaa-womens-basketball/2027-02-24-6-pm/18654702",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4365,6 +5751,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_x",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2027-02-24-6-30-pm/18599631",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4377,7 +5768,14 @@
    "venue": "bender",
    "tag": "",
    "note": "",
-   "id": "espn:401919488"
+   "id": "espn:401919488",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/american-university-eagles-womens-basketball-tickets/ncaa-womens-basketball/2027-02-26-5-pm/18676386",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-26",
@@ -4394,6 +5792,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-vcu-fairfax-virginia-02-26-2027/event/1500654DA03166C3",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2027-02-26-7-pm/18632798",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4406,7 +5809,14 @@
    "venue": "mcd",
    "tag": "",
    "note": "",
-   "id": "espn:401923111"
+   "id": "espn:401923111",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-womens-basketball-tickets/ncaa-womens-basketball/2027-02-27-2-pm/18602815",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-27",
@@ -4417,7 +5827,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401919625"
+   "id": "espn:401919625",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2027-02-27-2-pm/18676214",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-27",
@@ -4428,7 +5845,14 @@
    "venue": "eagle",
    "tag": "",
    "note": "",
-   "id": "espn:401928991"
+   "id": "espn:401928991",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-womens-basketball-tickets/ncaa-womens-basketball/2027-02-27-3-pm/18654685",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-02-27",
@@ -4444,6 +5868,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-saint-washington-district-of-columbia-02-27-2027/event/1500653EFB0E6244",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2027-02-27-8-pm/18632579",
      "checked": "2026-10-28"
     }
    ]
@@ -4474,6 +5903,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7AZ0",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-womens-basketball-tickets/ncaa-womens-basketball/2027-02-28-12-pm/18599990",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4491,6 +5925,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-marquette-washington-district-of-columbia-03-02-2027/event/15006532A7F89DE8",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/georgetown-hoyas-mens-basketball-tickets/ncaa-basketball/2027-03-02-6-30-pm/18589269",
      "checked": "2026-10-28"
     }
    ]
@@ -4510,6 +5949,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-hurricanes-hockey-talks-positive-washington-district-of-columbia-03-03-2027/event/150064F037A7E84E",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/3-3-2027-washington-district-of-columbia-capital-one-arena/nhl/18378884",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4528,6 +5972,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-rhode-island-fairfax-virginia-03-03-2027/event/1500654DA03566C9",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-mason-patriots-mens-basketball-tickets/ncaa-basketball/2027-03-03-7-pm/18632801",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4540,7 +5989,14 @@
    "venue": "burr",
    "tag": "",
    "note": "",
-   "id": "espn:401919661"
+   "id": "espn:401919661",
+   "tickets": [
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/howard-bison-womens-basketball-tickets/ncaa-womens-basketball/2027-03-04-6-pm/18676213",
+     "checked": "2026-10-28"
+    }
+   ]
   },
   {
    "date": "2027-03-04",
@@ -4568,6 +6024,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-loyola-washington-district-of-columbia-03-06-2027/event/1500653EFBC7647A",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/george-washington-revolutionaries-mens-basketball-tickets/ncaa-basketball/2027-03-06-4-30-pm/18632580",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4585,6 +6046,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-jazz-aj-dybantsa-rookie-washington-district-of-columbia-03-06-2027/event/15006505D894A27A",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/3-6-2027-washington-district-of-columbia-capital-one-arena/nba/18494685",
      "checked": "2026-10-28"
     }
    ]
@@ -4604,6 +6070,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_N",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/maryland-terrapins-mens-basketball-tickets/ncaa-basketball/2027-03-07-1-pm/18599633",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4621,6 +6092,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-flames-salute-to-the-washington-district-of-columbia-03-09-2027/event/150064F037ABE852",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/3-9-2027-washington-district-of-columbia-capital-one-arena/nhl/18378887",
      "checked": "2026-10-28"
     }
    ]
@@ -4640,6 +6116,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.gofevo.com/event/Capitals25220260109-1415010132",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/3-15-2027-washington-district-of-columbia-capital-one-arena/nhl/18378889",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4657,6 +6138,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-laketown-squadron-washington-district-of-columbia-03-16-2027/event/15006545DA04B360",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-03-16-11-30-am/18541378",
      "checked": "2026-10-28"
     }
    ]
@@ -4676,6 +6162,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-knicks-washington-district-of-columbia-03-16-2027/event/15006505D899A27F",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/3-16-2027-washington-district-of-columbia-capital-one-arena/nba/18494687",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4693,6 +6184,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-laketown-squadron-washington-district-of-columbia-03-17-2027/event/15006545C36C8F64",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-03-17-2-pm/18541382",
      "checked": "2026-10-28"
     }
    ]
@@ -4712,6 +6208,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-islanders-go-green-washington-district-of-columbia-03-17-2027/event/150064F037B2E85E",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/3-17-2027-washington-district-of-columbia-capital-one-arena/nhl/18378891",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4729,6 +6230,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-76ers-washington-district-of-columbia-03-18-2027/event/15006505D89EA284",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/3-18-2027-washington-district-of-columbia-capital-one-arena/nba/18494689",
      "checked": "2026-10-28"
     }
    ]
@@ -4748,6 +6254,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-cleveland-charge-washington-district-of-columbia-03-21-2027/event/15006545C3708F69",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-03-21-3-pm/18541383",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4765,6 +6276,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv-Pe",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/3-22-2027-washington-district-of-columbia-nationals-park/mlb/18560531",
      "checked": "2026-10-28"
     }
    ]
@@ -4784,6 +6300,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-cleveland-charge-washington-district-of-columbia-03-23-2027/event/15006545C3748F70",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-03-23-7-pm/18541384",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4801,6 +6322,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-red-wings-cherry-blossom-washington-district-of-columbia-03-23-2027/event/150064F037B5E863",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/3-23-2027-washington-district-of-columbia-capital-one-arena/nhl/18378890",
      "checked": "2026-10-28"
     }
    ]
@@ -4820,6 +6346,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-nuggets-cherry-blossom-snow-washington-district-of-columbia-03-24-2027/event/15006505D8A3A28A",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/3-24-2027-washington-district-of-columbia-capital-one-arena/nba/18494692",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4837,6 +6368,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb04",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/3-25-2027-washington-district-of-columbia-nationals-park/mlb/18381783",
      "checked": "2026-10-28"
     }
    ]
@@ -4856,6 +6392,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-westchester-knicks-washington-district-of-columbia-03-25-2027/event/15006545C3788F72",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/capital-city-go-go-tickets/nba-g-league/2027-03-25-7-pm/18541385",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4873,6 +6414,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-bruins-neuro-awareness-washington-district-of-columbia-03-26-2027/event/150064F037B9E868",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/3-26-2027-washington-district-of-columbia-capital-one-arena/nhl/18378893",
      "checked": "2026-10-28"
     }
    ]
@@ -4892,6 +6438,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb09",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/3-27-2027-washington-district-of-columbia-nationals-park/mlb/18381781",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4909,6 +6460,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-warriors-washington-district-of-columbia-03-27-2027/event/15006505D8A8A28F",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/3-27-2027-washington-district-of-columbia-capital-one-arena/nba/18494694",
      "checked": "2026-10-28"
     }
    ]
@@ -4928,6 +6484,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0_",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/3-28-2027-washington-district-of-columbia-nationals-park/mlb/18381782",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4945,6 +6506,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-mavericks-washington-district-of-columbia-03-28-2027/event/15006505D8ACA293",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/3-28-2027-washington-district-of-columbia-capital-one-arena/nba/18494696",
      "checked": "2026-10-28"
     }
    ]
@@ -4964,6 +6530,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0N",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/3-29-2027-washington-district-of-columbia-nationals-park/mlb/18381784",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -4981,6 +6552,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0P",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/3-30-2027-washington-district-of-columbia-nationals-park/mlb/18381789",
      "checked": "2026-10-28"
     }
    ]
@@ -5000,6 +6576,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-blackhawks-capsfest-washington-district-of-columbia-03-30-2027/event/150064F037BCE871",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/3-30-2027-washington-district-of-columbia-capital-one-arena/nhl/18378895",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5017,6 +6598,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0E",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/3-31-2027-washington-district-of-columbia-nationals-park/mlb/18381791",
      "checked": "2026-10-28"
     }
    ]
@@ -5036,6 +6622,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-bulls-washington-district-of-columbia-03-31-2027/event/15006505D8B1A29D",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/3-31-2027-washington-district-of-columbia-capital-one-arena/nba/18494697",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5053,6 +6644,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-76ers-washington-district-of-columbia-04-02-2027/event/15006505D8B6A2A6",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/4-2-2027-washington-district-of-columbia-capital-one-arena/nba/18494699",
      "checked": "2026-10-28"
     }
    ]
@@ -5072,6 +6668,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-blue-jackets-fan-appreciation-washington-district-of-columbia-04-03-2027/event/150064F037C0E877",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/4-3-2027-washington-district-of-columbia-capital-one-arena/nhl/18378899",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5090,6 +6691,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-penguins-washington-district-of-columbia-04-04-2027/event/150064F037C3E886",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-capitals-tickets/4-4-2027-washington-district-of-columbia-capital-one-arena/nhl/18378901",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5107,6 +6713,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0t",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-9-2027-washington-district-of-columbia-nationals-park/mlb/18381793",
      "checked": "2026-10-28"
     }
    ]
@@ -5136,6 +6747,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0s",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-10-2027-washington-district-of-columbia-nationals-park/mlb/18381794",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5154,6 +6770,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0S",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-11-2027-washington-district-of-columbia-nationals-park/mlb/18381796",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5171,6 +6792,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.gofevo.com/event/Wizards25220250918-15282603343",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-wizards-tickets/4-11-2027-washington-district-of-columbia-capital-one-arena/nba/18494701",
      "checked": "2026-10-28"
     }
    ]
@@ -5200,6 +6826,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0g",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-13-2027-washington-district-of-columbia-nationals-park/mlb/18381797",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5217,6 +6848,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0M",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-14-2027-washington-district-of-columbia-nationals-park/mlb/18381801",
      "checked": "2026-10-28"
     }
    ]
@@ -5236,6 +6872,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0y",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-15-2027-washington-district-of-columbia-nationals-park/mlb/18381803",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5253,6 +6894,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPv",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-23-2027-washington-district-of-columbia-nationals-park/mlb/18381805",
      "checked": "2026-10-28"
     }
    ]
@@ -5272,6 +6918,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPd",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-24-2027-washington-district-of-columbia-nationals-park/mlb/18381806",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5289,6 +6940,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPA",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-25-2027-washington-district-of-columbia-nationals-park/mlb/18381808",
      "checked": "2026-10-28"
     }
    ]
@@ -5308,6 +6964,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP6",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-26-2027-washington-district-of-columbia-nationals-park/mlb/18381810",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5325,6 +6986,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPa",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-27-2027-washington-district-of-columbia-nationals-park/mlb/18381813",
      "checked": "2026-10-28"
     }
    ]
@@ -5344,6 +7010,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPo",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/4-28-2027-washington-district-of-columbia-nationals-park/mlb/18381815",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5361,6 +7032,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPK",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-11-2027-washington-district-of-columbia-nationals-park/mlb/18381817",
      "checked": "2026-10-28"
     }
    ]
@@ -5380,6 +7056,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP4",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-12-2027-washington-district-of-columbia-nationals-park/mlb/18381819",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5397,6 +7078,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP9",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-13-2027-washington-district-of-columbia-nationals-park/mlb/18381820",
      "checked": "2026-10-28"
     }
    ]
@@ -5416,6 +7102,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP_",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-14-2027-washington-district-of-columbia-nationals-park/mlb/18381823",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5433,6 +7124,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPO",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-15-2027-washington-district-of-columbia-nationals-park/mlb/18381824",
      "checked": "2026-10-28"
     }
    ]
@@ -5452,6 +7148,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPx",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-16-2027-washington-district-of-columbia-nationals-park/mlb/18381827",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5469,6 +7170,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP0",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-25-2027-washington-district-of-columbia-nationals-park/mlb/18381829",
      "checked": "2026-10-28"
     }
    ]
@@ -5488,6 +7194,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPE",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-26-2027-washington-district-of-columbia-nationals-park/mlb/18381830",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5505,6 +7216,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPt",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-27-2027-washington-district-of-columbia-nationals-park/mlb/18381833",
      "checked": "2026-10-28"
     }
    ]
@@ -5524,6 +7240,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPs",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-28-2027-washington-district-of-columbia-nationals-park/mlb/18381835",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5541,6 +7262,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPS",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-29-2027-washington-district-of-columbia-nationals-park/mlb/18381837",
      "checked": "2026-10-28"
     }
    ]
@@ -5560,6 +7286,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPg",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/5-30-2027-washington-district-of-columbia-nationals-park/mlb/18381838",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5577,6 +7308,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPM",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/6-8-2027-washington-district-of-columbia-nationals-park/mlb/18381840",
      "checked": "2026-10-28"
     }
    ]
@@ -5596,6 +7332,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPy",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/6-9-2027-washington-district-of-columbia-nationals-park/mlb/18381842",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5613,6 +7354,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJv",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/6-10-2027-washington-district-of-columbia-nationals-park/mlb/18381844",
      "checked": "2026-10-28"
     }
    ]
@@ -5632,6 +7378,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJe",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/6-11-2027-washington-district-of-columbia-nationals-park/mlb/18381847",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5649,6 +7400,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJ7",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/6-12-2027-washington-district-of-columbia-nationals-park/mlb/18381848",
      "checked": "2026-10-28"
     }
    ]
@@ -5668,6 +7424,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJk",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/6-13-2027-washington-district-of-columbia-nationals-park/mlb/18381851",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5685,6 +7446,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJF",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/6-22-2027-washington-district-of-columbia-nationals-park/mlb/18381852",
      "checked": "2026-10-28"
     }
    ]
@@ -5704,6 +7470,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJa",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/6-23-2027-washington-district-of-columbia-nationals-park/mlb/18381855",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5721,6 +7492,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJo",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/6-24-2027-washington-district-of-columbia-nationals-park/mlb/18381854",
      "checked": "2026-10-28"
     }
    ]
@@ -5740,6 +7516,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJK",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-2-2027-washington-district-of-columbia-nationals-park/mlb/18381859",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5757,6 +7538,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJf",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-3-2027-washington-district-of-columbia-nationals-park/mlb/18381860",
      "checked": "2026-10-28"
     }
    ]
@@ -5776,6 +7562,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJp",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-4-2027-washington-district-of-columbia-nationals-park/mlb/18381863",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5793,6 +7584,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJb",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-6-2027-washington-district-of-columbia-nationals-park/mlb/18381864",
      "checked": "2026-10-28"
     }
    ]
@@ -5812,6 +7608,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZZ",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-7-2027-washington-district-of-columbia-nationals-park/mlb/18381865",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5829,6 +7630,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Ze",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-8-2027-washington-district-of-columbia-nationals-park/mlb/18381866",
      "checked": "2026-10-28"
     }
    ]
@@ -5848,6 +7654,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Z7",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-9-2027-washington-district-of-columbia-nationals-park/mlb/18381871",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5865,6 +7676,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zk",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-10-2027-washington-district-of-columbia-nationals-park/mlb/18381872",
      "checked": "2026-10-28"
     }
    ]
@@ -5884,6 +7700,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZF",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-11-2027-washington-district-of-columbia-nationals-park/mlb/18381875",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5901,6 +7722,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Z8",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-22-2027-washington-district-of-columbia-nationals-park/mlb/18381876",
      "checked": "2026-10-28"
     }
    ]
@@ -5920,6 +7746,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Z3",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-23-2027-washington-district-of-columbia-nationals-park/mlb/18381877",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5937,6 +7768,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zf",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-24-2027-washington-district-of-columbia-nationals-park/mlb/18381878",
      "checked": "2026-10-28"
     }
    ]
@@ -5956,6 +7792,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zp",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-25-2027-washington-district-of-columbia-nationals-park/mlb/18381883",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -5973,6 +7814,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zb",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-26-2027-washington-district-of-columbia-nationals-park/mlb/18381884",
      "checked": "2026-10-28"
     }
    ]
@@ -5992,6 +7838,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZO",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-27-2027-washington-district-of-columbia-nationals-park/mlb/18381887",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6009,6 +7860,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZI",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/7-28-2027-washington-district-of-columbia-nationals-park/mlb/18381888",
      "checked": "2026-10-28"
     }
    ]
@@ -6028,6 +7884,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zw",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-3-2027-washington-district-of-columbia-nationals-park/mlb/18381890",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6045,6 +7906,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZV",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-4-2027-washington-district-of-columbia-nationals-park/mlb/18381891",
      "checked": "2026-10-28"
     }
    ]
@@ -6064,6 +7930,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZU",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-5-2027-washington-district-of-columbia-nationals-park/mlb/18381895",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6081,6 +7952,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zz",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-13-2027-washington-district-of-columbia-nationals-park/mlb/18381896",
      "checked": "2026-10-28"
     }
    ]
@@ -6100,6 +7976,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zy",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-14-2027-washington-district-of-columbia-nationals-park/mlb/18381899",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6117,6 +7998,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vv",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-15-2027-washington-district-of-columbia-nationals-park/mlb/18381900",
      "checked": "2026-10-28"
     }
    ]
@@ -6136,6 +8022,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v7",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-16-2027-washington-district-of-columbia-nationals-park/mlb/18381903",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6153,6 +8044,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vk",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-17-2027-washington-district-of-columbia-nationals-park/mlb/18381904",
      "checked": "2026-10-28"
     }
    ]
@@ -6172,6 +8068,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_va",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-18-2027-washington-district-of-columbia-nationals-park/mlb/18381907",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6189,6 +8090,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vo",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-19-2027-washington-district-of-columbia-nationals-park/mlb/18381908",
      "checked": "2026-10-28"
     }
    ]
@@ -6208,6 +8114,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vK",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-27-2027-washington-district-of-columbia-nationals-park/mlb/18381911",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6225,6 +8136,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vf",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-28-2027-washington-district-of-columbia-nationals-park/mlb/18381912",
      "checked": "2026-10-28"
     }
    ]
@@ -6244,6 +8160,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v4",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-29-2027-washington-district-of-columbia-nationals-park/mlb/18381915",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6261,6 +8182,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vp",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-30-2027-washington-district-of-columbia-nationals-park/mlb/18381916",
      "checked": "2026-10-28"
     }
    ]
@@ -6280,6 +8206,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v9",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/8-31-2027-washington-district-of-columbia-nationals-park/mlb/18381918",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6297,6 +8228,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vb",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-1-2027-washington-district-of-columbia-nationals-park/mlb/18381920",
      "checked": "2026-10-28"
     }
    ]
@@ -6316,6 +8252,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v_",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-3-2027-washington-district-of-columbia-nationals-park/mlb/18381923",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6333,6 +8274,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vO",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-4-2027-washington-district-of-columbia-nationals-park/mlb/18381925",
      "checked": "2026-10-28"
     }
    ]
@@ -6352,6 +8298,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v-",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-5-2027-washington-district-of-columbia-nationals-park/mlb/18381926",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6369,6 +8320,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vx",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-13-2027-washington-district-of-columbia-nationals-park/mlb/18381927",
      "checked": "2026-10-28"
     }
    ]
@@ -6388,6 +8344,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vN",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-14-2027-washington-district-of-columbia-nationals-park/mlb/18381928",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6405,6 +8366,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v0",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-15-2027-washington-district-of-columbia-nationals-park/mlb/18381933",
      "checked": "2026-10-28"
     }
    ]
@@ -6424,6 +8390,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vP",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-16-2027-washington-district-of-columbia-nationals-park/mlb/18381935",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6441,6 +8412,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vJ",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-17-2027-washington-district-of-columbia-nationals-park/mlb/18381937",
      "checked": "2026-10-28"
     }
    ]
@@ -6460,6 +8436,11 @@
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vE",
      "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-18-2027-washington-district-of-columbia-nationals-park/mlb/18381938",
+     "checked": "2026-10-28"
     }
    ]
   },
@@ -6477,6 +8458,11 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vI",
+     "checked": "2026-10-28"
+    },
+    {
+     "seller": "SeatGeek",
+     "url": "https://seatgeek.com/washington-nationals-tickets/9-19-2027-washington-district-of-columbia-nationals-park/mlb/18381940",
      "checked": "2026-10-28"
     }
    ]
