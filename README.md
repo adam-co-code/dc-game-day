@@ -87,7 +87,7 @@ Edit `events.json` (on GitHub: open the file → pencil icon → **Commit change
 - `sport`: one of `nfl` (pro football, incl. UFL), `nhl`, `nba` (pro basketball incl. WNBA and G League), `mlb`, `soc`, `ncaaf`, `ncaab`, `oth` (special events).
 - `venue`: a short code defined in `index.html` (search for `const V=`), e.g. `cap` = Capital One Arena, `nw` = Northwest Stadium, `audi` = Audi Field, `nats` = Nationals Park. You can also type a full venue name like `"Bender Arena · American U, DC"`.
 - `tag` and `note`: optional extra labels. The daily update keeps whatever you put here.
-- `tickets`: filled in by the daily run; you can leave it out. On games without an `id`, you can add a ticket link yourself in the same format and it'll be kept (leave out `"from"` if there's no price).
+- `tickets`: filled in by the daily run; you can leave it out. On games without an `id`, you can add a ticket link yourself in the same format, with your own seller name such as `"Box office"`, and it will be kept (leave out `"from"` if there is no price).
 - `id`: **only on games the daily update manages.** It tells the update which feed game this is. Don't add one to events you enter yourself, and don't copy one between events.
 
 Events **without** an `id` (races, the horse show, one-off events like the Capital Showcase) are yours: the update never changes or removes them. If you hand-enter a game for a team the update covers (say, a newly announced Wizards game), the update will find it by team and date, take it over, and keep your tag and note.
