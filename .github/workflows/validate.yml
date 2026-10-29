@@ -1,0 +1,21 @@
+# Checks events.json whenever it (or the app) changes, including hand edits,
+# so a typo shows up as a red ❌ on the commit instead of a broken site.
+name: Check schedule file
+
+on:
+  push:
+    paths: ["events.json", "index.html", "scripts/**"]
+  pull_request:
+    paths: ["events.json", "index.html", "scripts/**"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/validate.py events.json
+      - run: python3 -m py_compile scripts/update.py

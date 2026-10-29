@@ -121,13 +121,13 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);color:v
 
 <footer>
   <div>Schedules last updated <span id="updated">recently</span> from team and league announcements. Times marked TBA haven't been set yet, and TV-driven times (especially college football) can move. Check the team's site before buying tickets.</div>
-  <div>Coming as soon as schedules are released: Mystics (WNBA, May–Sept.), DC Defenders (UFL, spring), Old Glory DC (rugby, spring), Washington Freedom (cricket, summer), the full Nationals slate, and any D.C. United or Spirit playoff home matches (the Spirit could host Nov. 6 or 8 and Nov. 14 or 15 depending on seeding).</div>
+  <div>Pro and college schedules refresh automatically every morning. Mystics (WNBA) and DC Defenders (UFL) games appear as soon as their leagues release schedules; Old Glory DC (rugby) and Washington Freedom (cricket) are added by hand when announced.</div>
 </footer>
 </div>
 
 <script>
 const SPORTS={
-  nfl:{label:"NFL",color:"var(--nfl)"}, nhl:{label:"NHL",color:"var(--nhl)"}, nba:{label:"Pro Basketball",color:"var(--nba)"}, mlb:{label:"Baseball",color:"var(--mlb)"},
+  nfl:{label:"Pro Football",color:"var(--nfl)"}, nhl:{label:"NHL",color:"var(--nhl)"}, nba:{label:"Pro Basketball",color:"var(--nba)"}, mlb:{label:"Baseball",color:"var(--mlb)"},
   soc:{label:"Soccer",color:"var(--soc)"}, ncaaf:{label:"College Football",color:"var(--ncaaf)"}, ncaab:{label:"College Hoops",color:"var(--ncaab)"}, oth:{label:"Special Events",color:"var(--oth)"}
 };
 const V={
@@ -138,7 +138,7 @@ const V={
   burr:"Burr Gymnasium · Howard, DC", eagle:"EagleBank Arena · Fairfax, VA", wihs:"Show Place Arena · Upper Marlboro, MD", mcm:"Pentagon to Marine Corps War Memorial · Arlington, VA"
 };
 let EVENTS=[];
-function mins(t){if(!t)return 9999;const m=t.match(/(\d+):(\d+) (AM|PM)/);let h=+m[1]%12;if(m[3]==="PM")h+=12;return h*60+ +m[2]}
+function mins(t){const m=(t||"").match(/(\d+):(\d+) (AM|PM)/);if(!m)return 9999;let h=+m[1]%12;if(m[3]==="PM")h+=12;return h*60+ +m[2]}
 
 const TODAY=(()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")})();
 const state={sports:new Set(Object.keys(SPORTS)),team:"",venue:"",q:"",view:"list"};
@@ -161,7 +161,7 @@ $("vList").onclick=()=>{state.view="list";save();render()};
 $("vMonth").onclick=()=>{state.view="month";save();render()};
 
 const fmtMonth=d=>new Date(d+"T12:00").toLocaleDateString("en-US",{month:"long",year:"numeric"});
-const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function filtered(){
   return EVENTS.filter(e=>e.date>=TODAY&&state.sports.has(e.sport)&&(!state.team||e.team===state.team)&&(!state.venue||e.venueShort===state.venue)
@@ -214,7 +214,7 @@ async function init(){
   $("out").innerHTML='<p class="empty">Loading games…</p>';
   try{
     const r=await fetch("events.json",{cache:"no-cache"});const data=await r.json();
-    EVENTS=data.events.map((e,i)=>{const v=V[e.venue]||e.venue||"Venue TBA";return {id:i,date:e.date,time:e.time||"",sport:SPORTS[e.sport]?e.sport:"oth",team:e.team,opp:e.opponent,venue:v,venueShort:v.split(" · ")[0],tag:e.tag||"",note:e.note||""}})
+    EVENTS=data.events.filter(e=>e&&/^\d{4}-\d\d-\d\d$/.test(e.date)&&e.team).map((e,i)=>{const v=V[e.venue]||e.venue||"Venue TBA";return {id:i,date:e.date,time:e.time||"",sport:SPORTS[e.sport]?e.sport:"oth",team:e.team,opp:e.opponent,venue:v,venueShort:v.split(" · ")[0],tag:e.tag||"",note:e.note||""}})
       .sort((a,b)=>a.date.localeCompare(b.date)||mins(a.time)-mins(b.time));
     if(data.updated)$("updated").textContent=new Date(data.updated+"T12:00").toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"});
   }catch(err){$("out").innerHTML='<p class="empty">Couldn\'t load the schedule. Check your connection and refresh.</p>';return}
