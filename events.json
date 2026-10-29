@@ -1,17 +1,6 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "events": [
-  {
-   "date": "2026-10-21",
-   "time": "7:00 PM",
-   "sport": "nba",
-   "team": "Wizards",
-   "opponent": "Milwaukee Bucks",
-   "venue": "cap",
-   "tag": "",
-   "note": "",
-   "id": "espn:401909835"
-  },
   {
    "date": "2026-10-22",
    "time": "",
@@ -137,7 +126,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-hornets-washington-district-of-columbia-10-30-2026/event/15006505D7FCA178",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -155,7 +144,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qE-_",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -173,7 +162,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-wild-youth-hockey-day-washington-district-of-columbia-11-01-2026/event/150064F03474E2AE",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -191,7 +180,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/fan-appreciation-washington-spirit-vs-chicago-washington-district-of-columbia-11-01-2026/event/15006428D62784CA",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -209,7 +198,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-philadelphia-eagles-landover-maryland-11-01-2026/event/1500647995125B72",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -227,7 +216,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-umbc-fairfax-virginia-11-02-2026/event/1500654DA03E66E2",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -256,7 +245,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-loyola-washington-district-of-columbia-11-02-2026/event/150064FE99766737",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -296,7 +285,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94Z",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -314,7 +303,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-navy-washington-district-of-columbia-11-02-2026/event/1500653CA9AF839E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -332,7 +321,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-stars-first-responders-night-washington-district-of-columbia-11-03-2026/event/150064F03477E2BF",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -350,7 +339,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-hawks-washington-district-of-columbia-11-04-2026/event/15006505D801A185",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -401,7 +390,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-coppin-state-fairfax-virginia-11-06-2026/event/1500654DA04266EA",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -430,7 +419,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-panthers-rally-towel-giveaway-washington-district-of-columbia-11-07-2026/event/150064F0347BE2C8",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -448,7 +437,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/dc-united-vs-new-york-city-washington-district-of-columbia-11-07-2026/event/15006393CA1DA24A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -466,7 +455,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-hampton-washington-district-of-columbia-11-07-2026/event/1500653DA47383E4",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -484,7 +473,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-maryland-washington-district-of-columbia-11-07-2026/event/150064FE99DD67E6",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -501,7 +490,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/skyscanner-capital-showcase-presented-by-events-washington-district-of-columbia-11-08-2026/event/150064FEC844A918",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -519,7 +508,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-los-angeles-rams-landover-maryland-11-08-2026/event/15006479954F5B9B",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -537,7 +526,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-K",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -577,7 +566,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-elon-washington-district-of-columbia-11-10-2026/event/1500653DAE6B9AD6",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -595,7 +584,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-georgetown-washington-district-of-columbia-11-11-2026/event/15006545BB1A8286",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -613,7 +602,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-pistons-washington-district-of-columbia-11-12-2026/event/15006505D806A193",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -642,7 +631,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-harvard-washington-district-of-columbia-11-13-2026/event/1500653DB0449E9F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -660,7 +649,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Poqs",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -678,7 +667,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-YZ3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -707,7 +696,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-long-washington-district-of-columbia-11-14-2026/event/15006545BB1E828A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -725,7 +714,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-raptors-905-washington-district-of-columbia-11-14-2026/event/15006545C37C8F7C",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -743,7 +732,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-devils-veterans-day-washington-district-of-columbia-11-14-2026/event/150064F0347EE2D4",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -761,7 +750,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OzaY",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -790,7 +779,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdf-",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -819,7 +808,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-rockets-washington-district-of-columbia-11-15-2026/event/15006505D80BA19A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -837,7 +826,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-ferrum-washington-district-of-columbia-11-16-2026/event/1500653DB4DBA7B0",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -855,7 +844,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-raptors-905-washington-district-of-columbia-11-16-2026/event/15006545C3808F86",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -873,7 +862,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94v",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -891,7 +880,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-grizzlies-ice-trae-young-washington-district-of-columbia-11-16-2026/event/15006505D811A19F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -909,7 +898,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-temple-washington-district-of-columbia-11-17-2026/event/15006545BB228292",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -938,7 +927,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdf4",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -956,7 +945,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-navy-washington-district-of-columbia-11-18-2026/event/150064FE9A296846",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -974,7 +963,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-north-carolina-central-fairfax-virginia-11-18-2026/event/1500654DA04666F3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1014,7 +1003,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-sabres-hockey-fights-cancer-washington-district-of-columbia-11-19-2026/event/150064F03482E2DA",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1043,7 +1032,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94e",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1072,7 +1061,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdfb",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1101,7 +1090,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-south-florida-fairfax-virginia-11-21-2026/event/1500654DA04A66FF",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1129,7 +1118,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/2026-nwsl-championship-presented-by-google-washington-district-of-columbia-11-21-2026/event/15006516DC0B17DC",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1158,7 +1147,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-magic-washington-district-of-columbia-11-22-2026/event/15006505D816A1B5",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1176,7 +1165,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-cincinnati-bengals-landover-maryland-11-23-2026/event/1500647995965BFB",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1205,7 +1194,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-long-island-washington-district-of-columbia-11-24-2026/event/15006545C3848F8E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1223,7 +1212,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdf9",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1241,7 +1230,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-celtics-washington-district-of-columbia-11-24-2026/event/15006505D81BA1C1",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1259,7 +1248,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-flyers-capsgiving-hockey-rink-washington-district-of-columbia-11-25-2026/event/150064F03485E2E3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1277,7 +1266,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-longwood-fairfax-virginia-11-25-2026/event/1500654DA04E6707",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1295,7 +1284,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-panthers-washington-district-of-columbia-11-27-2026/event/150064F03608E5EB",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1324,7 +1313,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-umbc-washington-district-of-columbia-11-27-2026/event/1500653DB599A8E5",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1342,7 +1331,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-st-washington-district-of-columbia-11-28-2026/event/15006545BB26829D",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1360,7 +1349,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-marist-fairfax-virginia-11-28-2026/event/1500654DA053670D",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1389,7 +1378,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-magic-washington-district-of-columbia-11-28-2026/event/15006505D820A1C4",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1407,7 +1396,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ozas",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1447,7 +1436,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdf_",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1465,7 +1454,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-canucks-beanie-giveaway-washington-district-of-columbia-12-01-2026/event/150064F0360CE5F2",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1483,7 +1472,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-southeastern-washington-district-of-columbia-12-01-2026/event/1500653DE9D8295F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1501,7 +1490,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-duquesne-washington-district-of-columbia-12-02-2026/event/15006545BB2B82A8",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1519,7 +1508,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-umass-washington-district-of-columbia-12-02-2026/event/150064FE9B52699A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1548,7 +1537,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94d",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1566,7 +1555,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-long-island-washington-district-of-columbia-12-03-2026/event/15006545C3888F9B",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1606,7 +1595,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-liu-washington-district-of-columbia-12-05-2026/event/1500653DED6431A9",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1668,7 +1657,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdff",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1686,7 +1675,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-loyola-washington-district-of-columbia-12-08-2026/event/15006545BB2F82C2",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1704,7 +1693,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-morgan-state-fairfax-virginia-12-08-2026/event/1500654DA0576718",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1722,7 +1711,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-college-park-washington-district-of-columbia-12-09-2026/event/15006545DA09B366",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1740,7 +1729,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-rider-washington-district-of-columbia-12-09-2026/event/150064FE9E226ED7",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1758,7 +1747,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-american-washington-district-of-columbia-12-09-2026/event/1500653EA2728993",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1776,7 +1765,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_K",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1805,7 +1794,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-college-park-washington-district-of-columbia-12-11-2026/event/15006545C38E8FA6",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1823,7 +1812,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-k",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1841,7 +1830,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-north-washington-district-of-columbia-12-12-2026/event/150064FEA03D719A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1859,7 +1848,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-old-dominion-fairfax-virginia-12-12-2026/event/1500654DA05C671F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1877,7 +1866,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-rider-washington-district-of-columbia-12-12-2026/event/15006545BB3382C7",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1895,7 +1884,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-hornets-tre-johnson-iii-washington-district-of-columbia-12-12-2026/event/15006505D82BA1D1",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1913,7 +1902,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdfx",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1931,7 +1920,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-houston-texans-landover-maryland-12-13-2026/event/1500647995775BD7",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1971,7 +1960,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-greensboro-swarm-washington-district-of-columbia-12-15-2026/event/15006545C3928FAB",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -1989,7 +1978,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ947",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2007,7 +1996,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-sacred-washington-district-of-columbia-12-16-2026/event/150064FEA1A97355",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2025,7 +2014,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-red-wings-caps-holiday-washington-district-of-columbia-12-17-2026/event/150064F0360FE5FE",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2065,7 +2054,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdfO",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2083,7 +2072,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-knicks-washington-district-of-columbia-12-18-2026/event/15006505D830A1DB",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2101,7 +2090,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-seton-washington-district-of-columbia-12-19-2026/event/15006532ABDFA5E4",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2119,7 +2108,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-blues-caps-holiday-party-washington-district-of-columbia-12-19-2026/event/150064F03613E60E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2137,7 +2126,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/washington-commanders-vs-atlanta-falcons-landover-maryland-12-20-2026/event/1500647995A85C2E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2177,7 +2166,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-maine-washington-district-of-columbia-12-21-2026/event/15006545BB3782D0",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2195,7 +2184,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-bryant-fairfax-virginia-12-22-2026/event/1500654DA0606731",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2213,7 +2202,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-raptors-washington-district-of-columbia-12-22-2026/event/15006505D835A1E3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2242,7 +2231,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-cavaliers-washington-district-of-columbia-12-23-2026/event/15006505D839A1E9",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2260,7 +2249,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-trail-blazers-washington-district-of-columbia-12-26-2026/event/15006505D83EA1EF",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2278,7 +2267,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-blue-jackets-washington-district-of-columbia-12-26-2026/event/150064F03616E616",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2296,7 +2285,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-mcdaniel-fairfax-virginia-12-27-2026/event/1500654DA064673C",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2314,7 +2303,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-oilers-washington-district-of-columbia-12-28-2026/event/150064F0361AE621",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2332,7 +2321,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ94A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2361,7 +2350,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-6",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2379,7 +2368,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-richmond-fairfax-virginia-12-30-2026/event/1500654DA0686747",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2397,7 +2386,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-xavier-washington-district-of-columbia-12-30-2026/event/15006531D5B90E9D",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2426,7 +2415,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-spurs-washington-district-of-columbia-01-01-2027/event/15006505D843A1F6",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2488,7 +2477,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-saint-washington-district-of-columbia-01-02-2027/event/1500653EE7AF2E00",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2517,7 +2506,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_f",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2535,7 +2524,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-senators-women-in-sports-washington-district-of-columbia-01-02-2027/event/150064F035E9E5B9",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2553,7 +2542,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-villanova-washington-district-of-columbia-01-03-2027/event/1500653297687734",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2571,7 +2560,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-clippers-washington-district-of-columbia-01-03-2027/event/15006505D848A1FE",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2589,7 +2578,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-wisconsin-herd-washington-district-of-columbia-01-04-2027/event/15006545C3388EEA",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2607,7 +2596,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-maple-leafs-washington-district-of-columbia-01-04-2027/event/150064F035ECE5BE",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2625,7 +2614,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-lakers-washington-district-of-columbia-01-05-2027/event/15006505D84DA206",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2643,7 +2632,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_4",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2672,7 +2661,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-st-washington-district-of-columbia-01-06-2027/event/15006545BAF08235",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2690,7 +2679,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-wisconsin-herd-washington-district-of-columbia-01-06-2027/event/15006545C33C8EF3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2708,7 +2697,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-fordham-fairfax-virginia-01-06-2027/event/1500654DA0176676",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2726,7 +2715,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-thunder-washington-district-of-columbia-01-07-2027/event/15006505D852A20A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2744,7 +2733,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-timberwolves-washington-district-of-columbia-01-08-2027/event/15006505D857A20E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2762,7 +2751,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-8",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2780,7 +2769,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-creighton-washington-district-of-columbia-01-09-2027/event/150065329F7E898F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2798,7 +2787,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-virginia-washington-district-of-columbia-01-09-2027/event/1500653EEF2A409B",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2860,7 +2849,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-davidson-washington-district-of-columbia-01-10-2027/event/15006545BAF68249",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2889,7 +2878,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-hawks-washington-district-of-columbia-01-11-2027/event/15006505D85CA215",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2907,7 +2896,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-golden-knights-ovechkin-bobblehead-washington-district-of-columbia-01-12-2027/event/150064F035F0E5C1",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2936,7 +2925,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-fordham-washington-district-of-columbia-01-13-2027/event/15006545BAFB8254",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2954,7 +2943,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-st-bonaventure-fairfax-virginia-01-13-2027/event/1500654DA01B6686",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -2983,7 +2972,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-hurricanes-country-music-night-washington-district-of-columbia-01-14-2027/event/150064F035F3E5C4",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3023,7 +3012,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_p",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3041,7 +3030,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-avalanche-fan-designed-rally-washington-district-of-columbia-01-16-2027/event/150064F035F7E5CA",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3070,7 +3059,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-pacers-will-riley-designed-washington-district-of-columbia-01-17-2027/event/15006505D860A21D",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3088,7 +3077,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-maine-celtics-washington-district-of-columbia-01-17-2027/event/15006545C3408EFC",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3106,7 +3095,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-george-washington-district-of-columbia-01-18-2027/event/1500653EF1AF47BF",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3124,7 +3113,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-celtics-washington-district-of-columbia-01-18-2027/event/15006505D865A21F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3153,7 +3142,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-maine-celtics-washington-district-of-columbia-01-19-2027/event/15006545C3458F01",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3171,7 +3160,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-canadiens-pride-washington-district-of-columbia-01-19-2027/event/150064F035FAE5D1",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3189,7 +3178,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_9",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3218,7 +3207,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-virginia-washington-district-of-columbia-01-20-2027/event/15006545BB008258",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3269,7 +3258,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-windy-city-washington-district-of-columbia-01-21-2027/event/15006545C3498F04",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3287,7 +3276,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3305,7 +3294,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-windy-city-washington-district-of-columbia-01-22-2027/event/15006545C34D8F15",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3323,7 +3312,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-islanders-margaritaville-washington-district-of-columbia-01-22-2027/event/150064F035FEE5D8",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3352,7 +3341,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-providence-washington-district-of-columbia-01-23-2027/event/15006532A0378AD7",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3370,7 +3359,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-loyola-chicago-fairfax-virginia-01-23-2027/event/1500654DA02066A3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3388,7 +3377,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-o",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3417,7 +3406,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_b",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3435,7 +3424,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-connecticut-washington-district-of-columbia-01-26-2027/event/15006532A1058CE2",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3464,7 +3453,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-richmond-washington-district-of-columbia-01-27-2027/event/1500653EF4574E86",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3493,7 +3482,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-kings-washington-district-of-columbia-01-28-2027/event/15006505D86AA228",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3511,7 +3500,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-grand-rapids-washington-district-of-columbia-01-29-2027/event/15006545C3518F1C",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3540,7 +3529,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-la-washington-district-of-columbia-01-30-2027/event/15006545BB058262",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3569,7 +3558,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-st-josephs-fairfax-virginia-01-30-2027/event/1500654DA02466AE",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3587,7 +3576,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-westchester-knicks-washington-district-of-columbia-01-30-2027/event/15006545C3578F27",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3605,7 +3594,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-a",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3623,7 +3612,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-jets-alex-tuch-designed-washington-district-of-columbia-02-02-2027/event/150064F03601E5DD",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3652,7 +3641,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-duquesne-washington-district-of-columbia-02-03-2027/event/1500653EF4E44FCF",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3681,7 +3670,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-depaul-washington-district-of-columbia-02-03-2027/event/15006532A29A9066",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3699,7 +3688,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-pelicans-washington-district-of-columbia-02-04-2027/event/15006505D86FA235",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3717,7 +3706,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-delaware-blue-washington-district-of-columbia-02-05-2027/event/15006545C35B8F39",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3735,7 +3724,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-george-washington-fairfax-virginia-02-06-2027/event/1500654DA02866BA",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3775,7 +3764,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-delaware-blue-washington-district-of-columbia-02-07-2027/event/15006545C35F8F42",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3793,7 +3782,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-bulls-john-thompson-jr-washington-district-of-columbia-02-08-2027/event/15006505D874A240",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3833,7 +3822,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV__",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3873,7 +3862,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-heat-washington-district-of-columbia-02-10-2027/event/15006505D87AA249",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3902,7 +3891,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-nets-washington-district-of-columbia-02-12-2027/event/15006505D87FA254",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3920,7 +3909,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-butler-washington-district-of-columbia-02-13-2027/event/15006532A53F982A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3938,7 +3927,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_-",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3967,7 +3956,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-saint-washington-district-of-columbia-02-13-2027/event/15006545BB0B826E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -3985,7 +3974,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-la-washington-district-of-columbia-02-13-2027/event/1500653EF8665A3D",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4003,7 +3992,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-bucks-washington-district-of-columbia-02-13-2027/event/15006505D885A257",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4021,7 +4010,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4039,7 +4028,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-mammoth-heart-health-awareness-washington-district-of-columbia-02-14-2027/event/150064F03605E5E3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4057,7 +4046,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-suns-washington-district-of-columbia-02-15-2027/event/15006505D88AA261",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4086,7 +4075,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-noblesville-boom-washington-district-of-columbia-02-16-2027/event/15006545C3638F53",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4104,7 +4093,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-ducks-star-wars-night-washington-district-of-columbia-02-16-2027/event/150064F03799E836",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4122,7 +4111,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-dayton-washington-district-of-columbia-02-16-2027/event/1500653EF8E45B8C",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4151,7 +4140,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-la-salle-fairfax-virginia-02-17-2027/event/1500654DA02C66BE",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4169,7 +4158,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v-3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4187,7 +4176,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-heat-cherry-blossom-sling-washington-district-of-columbia-02-17-2027/event/15006505D88FA26E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4205,7 +4194,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-noblesville-boom-washington-district-of-columbia-02-18-2027/event/15006545C3688F5E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4234,7 +4223,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-sharks-celebrating-black-history-washington-district-of-columbia-02-19-2027/event/150064F0379DE83D",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4252,7 +4241,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-st-washington-district-of-columbia-02-20-2027/event/15006532A6CC9B3E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4270,7 +4259,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-george-washington-district-of-columbia-02-20-2027/event/15006545BB0F8274",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4299,7 +4288,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-predators-kids-day-washington-district-of-columbia-02-21-2027/event/150064F037A0E83F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4328,7 +4317,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-rangers-magic-gr8-ball-washington-district-of-columbia-02-23-2027/event/150064F037A4E844",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4346,7 +4335,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-womens-basketball-vs-university-washington-district-of-columbia-02-24-2027/event/15006545BB148280",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4364,7 +4353,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_x",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4393,7 +4382,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-vcu-fairfax-virginia-02-26-2027/event/1500654DA03166C3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4444,7 +4433,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-saint-washington-district-of-columbia-02-27-2027/event/1500653EFB0E6244",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4473,7 +4462,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7AZ0",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4491,7 +4480,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/georgetown-hoyas-mens-basketball-v-marquette-washington-district-of-columbia-03-02-2027/event/15006532A7F89DE8",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4509,7 +4498,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-hurricanes-hockey-talks-positive-washington-district-of-columbia-03-03-2027/event/150064F037A7E84E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4527,7 +4516,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/mbb-v-rhode-island-fairfax-virginia-03-03-2027/event/1500654DA03566C9",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4567,7 +4556,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/george-washington-mens-basketball-vs-loyola-washington-district-of-columbia-03-06-2027/event/1500653EFBC7647A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4585,7 +4574,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-jazz-aj-dybantsa-rookie-washington-district-of-columbia-03-06-2027/event/15006505D894A27A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4603,7 +4592,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvV_N",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4621,7 +4610,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-flames-salute-to-the-washington-district-of-columbia-03-09-2027/event/150064F037ABE852",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4639,7 +4628,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.gofevo.com/event/Capitals25220260109-1415010132",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4657,7 +4646,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-laketown-squadron-washington-district-of-columbia-03-16-2027/event/15006545DA04B360",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4675,7 +4664,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-knicks-washington-district-of-columbia-03-16-2027/event/15006505D899A27F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4693,7 +4682,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-laketown-squadron-washington-district-of-columbia-03-17-2027/event/15006545C36C8F64",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4711,7 +4700,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-islanders-go-green-washington-district-of-columbia-03-17-2027/event/150064F037B2E85E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4729,7 +4718,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-76ers-washington-district-of-columbia-03-18-2027/event/15006505D89EA284",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4747,7 +4736,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-cleveland-charge-washington-district-of-columbia-03-21-2027/event/15006545C3708F69",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4765,7 +4754,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv-Pe",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4783,7 +4772,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-cleveland-charge-washington-district-of-columbia-03-23-2027/event/15006545C3748F70",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4801,7 +4790,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-red-wings-cherry-blossom-washington-district-of-columbia-03-23-2027/event/150064F037B5E863",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4819,7 +4808,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-nuggets-cherry-blossom-snow-washington-district-of-columbia-03-24-2027/event/15006505D8A3A28A",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4837,7 +4826,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb04",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4855,7 +4844,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capital-city-gogo-vs-westchester-knicks-washington-district-of-columbia-03-25-2027/event/15006545C3788F72",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4873,7 +4862,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-bruins-neuro-awareness-washington-district-of-columbia-03-26-2027/event/150064F037B9E868",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4891,7 +4880,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb09",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4909,7 +4898,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-warriors-washington-district-of-columbia-03-27-2027/event/15006505D8A8A28F",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4927,7 +4916,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0_",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4945,7 +4934,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-mavericks-washington-district-of-columbia-03-28-2027/event/15006505D8ACA293",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4963,7 +4952,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0N",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4981,7 +4970,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0P",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -4999,7 +4988,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-blackhawks-capsfest-washington-district-of-columbia-03-30-2027/event/150064F037BCE871",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5017,7 +5006,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0E",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5035,7 +5024,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-bulls-washington-district-of-columbia-03-31-2027/event/15006505D8B1A29D",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5053,7 +5042,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/wizards-v-76ers-washington-district-of-columbia-04-02-2027/event/15006505D8B6A2A6",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5071,7 +5060,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-blue-jackets-fan-appreciation-washington-district-of-columbia-04-03-2027/event/150064F037C0E877",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5089,7 +5078,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/capitals-vs-penguins-washington-district-of-columbia-04-04-2027/event/150064F037C3E886",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5107,7 +5096,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0t",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5135,7 +5124,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0s",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5153,7 +5142,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0S",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5171,7 +5160,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.gofevo.com/event/Wizards25220250918-15282603343",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5199,7 +5188,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0g",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5217,7 +5206,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0M",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5235,7 +5224,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jb0y",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5253,7 +5242,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPv",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5271,7 +5260,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPd",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5289,7 +5278,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPA",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5307,7 +5296,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP6",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5325,7 +5314,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPa",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5343,7 +5332,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPo",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5361,7 +5350,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5379,7 +5368,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP4",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5397,7 +5386,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP9",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5415,7 +5404,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP_",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5433,7 +5422,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPO",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5451,7 +5440,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPx",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5469,7 +5458,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbP0",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5487,7 +5476,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPE",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5505,7 +5494,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPt",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5523,7 +5512,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPs",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5541,7 +5530,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPS",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5559,7 +5548,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPg",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5577,7 +5566,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPM",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5595,7 +5584,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbPy",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5613,7 +5602,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJv",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5631,7 +5620,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJe",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5649,7 +5638,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJ7",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5667,7 +5656,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJk",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5685,7 +5674,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJF",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5703,7 +5692,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJa",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5721,7 +5710,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJo",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5739,7 +5728,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5757,7 +5746,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJf",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5775,7 +5764,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJp",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5793,7 +5782,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JbJb",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5811,7 +5800,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZZ",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5829,7 +5818,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Ze",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5847,7 +5836,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Z7",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5865,7 +5854,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zk",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5883,7 +5872,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZF",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5901,7 +5890,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Z8",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5919,7 +5908,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Z3",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5937,7 +5926,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zf",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5955,7 +5944,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zp",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5973,7 +5962,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zb",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -5991,7 +5980,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZO",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6009,7 +5998,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZI",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6027,7 +6016,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zw",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6045,7 +6034,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZV",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6063,7 +6052,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_ZU",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6081,7 +6070,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zz",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6099,7 +6088,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_Zy",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6117,7 +6106,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vv",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6135,7 +6124,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v7",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6153,7 +6142,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vk",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6171,7 +6160,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_va",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6189,7 +6178,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vo",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6207,7 +6196,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6225,7 +6214,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vf",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6243,7 +6232,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v4",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6261,7 +6250,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vp",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6279,7 +6268,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v9",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6297,7 +6286,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vb",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6315,7 +6304,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v_",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6333,7 +6322,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vO",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6351,7 +6340,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v-",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6369,7 +6358,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vx",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6387,7 +6376,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vN",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6405,7 +6394,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_v0",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6423,7 +6412,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vP",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6441,7 +6430,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vJ",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6459,7 +6448,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vE",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
@@ -6477,7 +6466,7 @@
     {
      "seller": "Ticketmaster",
      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J_vI",
-     "checked": "2026-10-28"
+     "checked": "2026-10-29"
     }
    ]
   },
