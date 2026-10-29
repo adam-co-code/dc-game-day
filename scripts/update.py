@@ -257,6 +257,7 @@ def merge(old_events, results, today):
             if prev:
                 fe["tag"] = prev["tag"] or fe["tag"]
                 fe["note"] = prev.get("note", "")
+                fe.update({k: v for k, v in prev.items() if k not in FIELDS})  # e.g. "tickets" from tickets.py
                 if not fe["time"] and prev["date"] == fe["date"]:
                     fe["time"] = prev["time"]  # a feed saying "TBA" shouldn't erase a time we already know
                 diffs = [k for k in ("date", "time", "opponent", "venue") if prev.get(k) != fe[k]]
