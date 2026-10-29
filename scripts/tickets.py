@@ -160,7 +160,13 @@ def main():
             print(f"ok     {seller}: {len(listings)} listings at DC-area venues")
             sellers.append((seller, listings))
         except Exception as err:  # keep last good links for this seller
-            print(f"FAILED {seller}: {type(err).__name__}: {err} (kept previous links)")
+            reason = ""
+            if isinstance(err, urllib.error.HTTPError):  # sellers explain refusals in the body, e.g. "Invalid client credentials"
+                try:
+                    reason = " - " + json.load(err).get("message", "")[:200]
+                except Exception:
+                    pass
+            print(f"FAILED {seller}: {type(err).__name__}: {err}{reason} (kept previous links)")
 
     counts = {s: [0, 0] for s, _ in sellers}  # matched, with price
     upcoming = [e for e in data["events"] if e["date"] >= today]
