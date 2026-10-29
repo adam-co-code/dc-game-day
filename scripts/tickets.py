@@ -88,13 +88,21 @@ def ticketmaster(key, today):
 
 
 def seatgeek(client_id, today):
+    """All upcoming SeatGeek events at our venues, in the same shape as ticketmaster()."""
     secret = os.environ.get("SEATGEEK_CLIENT_SECRET", "").strip()
     auth = {"client_id": client_id} | ({"client_secret": secret} if secret else {})
-    """All upcoming SeatGeek events at our venues, in the same shape as ticketmaster()."""
     out = []
     for code, (name, state) in VENUES.items():
         q = urllib.parse.urlencode(auth | {"q": name, "state": state, "per_page": 20})
-        data = get(f"https://api.seatgeek.com/2/venues?{q}")
+        try:
+            data = get(f"https://api.seatgeek.com/2/venues?{q}")
+        except urllib.error.HTTPError as err:
+            if err.code != 403 or "client_secret" not in auth:
+                raise
+            print("note   SeatGeek rejected the Client ID + Secret together; retrying with the Client ID only")
+            auth = {"client_id": client_id}  # public event lookups only need the ID
+            q = urllib.parse.urlencode(auth | {"q": name, "state": state, "per_page": 20})
+            data = get(f"https://api.seatgeek.com/2/venues?{q}")
         ids = [str(v["id"]) for v in data.get("venues", []) if words(name) <= words(v.get("name", ""))]
         for vid in ids:
             for page in range(1, 6):
