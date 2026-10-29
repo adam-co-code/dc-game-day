@@ -111,7 +111,10 @@ def seatgeek(client_id, today):
                 data = get(f"https://api.seatgeek.com/2/events?{q}")
                 for e in data.get("events", []):
                     dt = e.get("datetime_local", "")
-                    price = (e.get("stats") or {}).get("lowest_price")
+                    stats = e.get("stats") or {}
+                    price = stats.get("lowest_price") or stats.get("lowest_sg_base_price")
+                    if not out and not price:  # one-line peek at what SeatGeek sends, to help diagnose missing prices
+                        print("note   SeatGeek price fields on first event:", {k: v for k, v in stats.items() if "price" in k})
                     out.append((code, dt[:10], "" if e.get("time_tbd") else dt[11:16], e.get("title", ""), e.get("url", ""), price))
                 meta = data.get("meta", {})
                 if page * meta.get("per_page", 200) >= meta.get("total", 0):
