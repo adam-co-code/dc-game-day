@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-28",
  "events": [
+  {
+   "date": "2026-10-21",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Milwaukee Bucks",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "espn:401909835"
+  },
   {
    "date": "2026-10-22",
    "time": "",
@@ -13,13 +24,14 @@
   },
   {
    "date": "2026-10-23",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Toronto Raptors",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909846"
   },
   {
    "date": "2026-10-23",
@@ -39,7 +51,8 @@
    "opponent": "Buffalo Sabres",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020173"
   },
   {
    "date": "2026-10-24",
@@ -49,17 +62,8 @@
    "opponent": "FC Cincinnati",
    "venue": "audi",
    "tag": "MLS",
-   "note": ""
-  },
-  {
-   "date": "2026-10-24",
-   "time": "",
-   "sport": "oth",
-   "team": "Washington International Horse Show",
-   "opponent": "Show jumping & hunters",
-   "venue": "wihs",
-   "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:761895"
   },
   {
    "date": "2026-10-24",
@@ -72,11 +76,11 @@
    "note": ""
   },
   {
-   "date": "2026-10-25",
+   "date": "2026-10-24",
    "time": "",
    "sport": "oth",
    "team": "Washington International Horse Show",
-   "opponent": "Final day",
+   "opponent": "Show jumping & hunters",
    "venue": "wihs",
    "tag": "",
    "note": ""
@@ -92,6 +96,16 @@
    "note": "Free to watch along the course; expect road closures in Arlington and DC"
   },
   {
+   "date": "2026-10-25",
+   "time": "",
+   "sport": "oth",
+   "team": "Washington International Horse Show",
+   "opponent": "Final day",
+   "venue": "wihs",
+   "tag": "",
+   "note": ""
+  },
+  {
    "date": "2026-10-28",
    "time": "7:30 PM",
    "sport": "nhl",
@@ -99,7 +113,8 @@
    "opponent": "Philadelphia Flyers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020199"
   },
   {
    "date": "2026-10-30",
@@ -109,27 +124,19 @@
    "opponent": "Charlotte Hornets",
    "venue": "cap",
    "tag": "NBA Cup",
-   "note": ""
+   "note": "",
+   "id": "espn:401909277"
   },
   {
    "date": "2026-10-31",
-   "time": "",
+   "time": "12:00 PM",
    "sport": "ncaaf",
    "team": "Maryland Terrapins",
    "opponent": "Illinois",
    "venue": "secu",
    "tag": "",
-   "note": ""
-  },
-  {
-   "date": "2026-11-01",
-   "time": "8:20 PM",
-   "sport": "nfl",
-   "team": "Commanders",
-   "opponent": "Philadelphia Eagles",
-   "venue": "nw",
-   "tag": "SNF",
-   "note": ""
+   "note": "",
+   "id": "espn:401858503"
   },
   {
    "date": "2026-11-01",
@@ -139,17 +146,74 @@
    "opponent": "Minnesota Wild",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020228"
+  },
+  {
+   "date": "2026-11-01",
+   "time": "5:00 PM",
+   "sport": "soc",
+   "team": "Washington Spirit",
+   "opponent": "Chicago Stars FC",
+   "venue": "audi",
+   "tag": "NWSL",
+   "note": "",
+   "id": "espn:401854035"
+  },
+  {
+   "date": "2026-11-01",
+   "time": "8:20 PM",
+   "sport": "nfl",
+   "team": "Commanders",
+   "opponent": "Philadelphia Eagles",
+   "venue": "nw",
+   "tag": "SNF",
+   "note": "",
+   "id": "espn:401873035"
   },
   {
    "date": "2026-11-02",
-   "time": "",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "UMBC",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401920071"
+  },
+  {
+   "date": "2026-11-02",
+   "time": "5:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "District of Columbia",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401913664"
+  },
+  {
+   "date": "2026-11-02",
+   "time": "6:30 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Loyola Maryland",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921264"
+  },
+  {
+   "date": "2026-11-02",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "Temple",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401921077"
   },
   {
    "date": "2026-11-02",
@@ -159,17 +223,8 @@
    "opponent": "Delaware State",
    "venue": "mcd",
    "tag": "Opener",
-   "note": ""
-  },
-  {
-   "date": "2026-11-02",
-   "time": "",
-   "sport": "ncaab",
-   "team": "GW Revolutionaries (M)",
-   "opponent": "Navy",
-   "venue": "smith",
-   "tag": "Opener",
-   "note": ""
+   "note": "",
+   "id": "espn:401919066"
   },
   {
    "date": "2026-11-02",
@@ -179,7 +234,19 @@
    "opponent": "Bucknell",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401916296"
+  },
+  {
+   "date": "2026-11-02",
+   "time": "7:30 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Navy",
+   "venue": "smith",
+   "tag": "Opener",
+   "note": "",
+   "id": "espn:401911208"
   },
   {
    "date": "2026-11-03",
@@ -189,37 +256,74 @@
    "opponent": "Dallas Stars",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020243"
   },
   {
    "date": "2026-11-04",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Atlanta Hawks",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909923"
   },
   {
    "date": "2026-11-05",
-   "time": "5:00 PM",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "Akron",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401921078"
+  },
+  {
+   "date": "2026-11-05",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "American University",
+   "venue": "mcd",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919067"
+  },
+  {
+   "date": "2026-11-05",
+   "time": "7:30 PM",
    "sport": "ncaaf",
    "team": "Howard Bison",
    "opponent": "South Carolina State",
    "venue": "greene",
    "tag": "MEAC",
-   "note": "Howard lists Nov. 5; some outlets list Nov. 7, so confirm before going"
+   "note": "",
+   "id": "espn:401867964"
   },
   {
-   "date": "2026-11-05",
-   "time": "",
+   "date": "2026-11-06",
+   "time": "7:00 PM",
    "sport": "ncaab",
-   "team": "Georgetown (W)",
-   "opponent": "American",
-   "venue": "mcd",
+   "team": "George Mason (M)",
+   "opponent": "Coppin State",
+   "venue": "eagle",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401920072"
+  },
+  {
+   "date": "2026-11-06",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "Elon",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927926"
   },
   {
    "date": "2026-11-07",
@@ -229,7 +333,8 @@
    "opponent": "Florida Panthers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020265"
   },
   {
    "date": "2026-11-07",
@@ -239,27 +344,30 @@
    "opponent": "New York City FC",
    "venue": "audi",
    "tag": "Decision Day",
-   "note": "Final regular-season match; MLS playoff home dates follow if United qualify"
+   "note": "Final regular-season match; MLS playoff home dates follow if United qualify",
+   "id": "espn:761936"
   },
   {
    "date": "2026-11-07",
-   "time": "",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Hampton",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401926825"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "7:30 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Maryland",
    "venue": "cap",
    "tag": "Rivalry",
-   "note": ""
-  },
-  {
-   "date": "2026-11-08",
-   "time": "1:00 PM",
-   "sport": "nfl",
-   "team": "Commanders",
-   "opponent": "Los Angeles Rams",
-   "venue": "nw",
-   "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909513"
   },
   {
    "date": "2026-11-08",
@@ -273,63 +381,102 @@
   },
   {
    "date": "2026-11-08",
+   "time": "1:00 PM",
+   "sport": "nfl",
+   "team": "Commanders",
+   "opponent": "Los Angeles Rams",
+   "venue": "nw",
+   "tag": "",
+   "note": "",
+   "id": "espn:401873043"
+  },
+  {
+   "date": "2026-11-08",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "George Mason",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401918915"
+  },
+  {
+   "date": "2026-11-08",
    "time": "2:00 PM",
    "sport": "ncaab",
    "team": "Georgetown (W)",
    "opponent": "Saint Peter's",
    "venue": "mcd",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401919068"
   },
   {
    "date": "2026-11-10",
-   "time": "",
+   "time": "6:30 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Delaware State",
-   "venue": "mcd",
+   "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909514"
   },
   {
    "date": "2026-11-10",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "ncaab",
    "team": "GW Revolutionaries (M)",
    "opponent": "Elon",
    "venue": "smith",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401911209"
   },
   {
    "date": "2026-11-11",
-   "time": "",
+   "time": "6:00 PM",
    "sport": "ncaab",
    "team": "GW Revolutionaries (W)",
    "opponent": "Georgetown",
    "venue": "smith",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401913665"
   },
   {
    "date": "2026-11-12",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Detroit Pistons",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909977"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Stetson",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401922239"
   },
   {
    "date": "2026-11-13",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "ncaab",
    "team": "GW Revolutionaries (M)",
    "opponent": "Harvard",
    "venue": "smith",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401911210"
   },
   {
    "date": "2026-11-13",
@@ -339,37 +486,8 @@
    "opponent": "Virginia",
    "venue": "xfin",
    "tag": "",
-   "note": ""
-  },
-  {
-   "date": "2026-11-14",
-   "time": "7:00 PM",
-   "sport": "nhl",
-   "team": "Capitals",
-   "opponent": "New Jersey Devils",
-   "venue": "cap",
-   "tag": "",
-   "note": ""
-  },
-  {
-   "date": "2026-11-14",
-   "time": "7:00 PM",
-   "sport": "nba",
-   "team": "Capital City Go-Go",
-   "opponent": "Raptors 905",
-   "venue": "cfa",
-   "tag": "G League",
-   "note": ""
-  },
-  {
-   "date": "2026-11-14",
-   "time": "",
-   "sport": "ncaaf",
-   "team": "Maryland Terrapins",
-   "opponent": "Wisconsin",
-   "venue": "secu",
-   "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401916297"
   },
   {
    "date": "2026-11-14",
@@ -379,17 +497,85 @@
    "opponent": "Delaware State",
    "venue": "greene",
    "tag": "MEAC",
-   "note": ""
+   "note": "",
+   "id": "espn:401867958"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "3:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "North Carolina Central",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401921079"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "5:30 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Long Island University",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401913666"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Raptors 905",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401914549"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "New Jersey Devils",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "nhl:2026020318"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "",
+   "sport": "ncaaf",
+   "team": "Maryland Terrapins",
+   "opponent": "Wisconsin",
+   "venue": "secu",
+   "tag": "",
+   "note": "",
+   "id": "espn:401858520"
   },
   {
    "date": "2026-11-15",
-   "time": "",
-   "sport": "nba",
-   "team": "Wizards",
-   "opponent": "Houston Rockets",
-   "venue": "cap",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Harvard",
+   "venue": "bender",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401912210"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Columbia",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401918916"
   },
   {
    "date": "2026-11-15",
@@ -399,17 +585,30 @@
    "opponent": "Howard",
    "venue": "mcd",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401919069"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Houston Rockets",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "espn:401909991"
   },
   {
    "date": "2026-11-16",
-   "time": "",
-   "sport": "nba",
-   "team": "Wizards",
-   "opponent": "Memphis Grizzlies",
-   "venue": "cap",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Ferrum",
+   "venue": "smith",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401911211"
   },
   {
    "date": "2026-11-16",
@@ -419,7 +618,8 @@
    "opponent": "Raptors 905",
    "venue": "cfa",
    "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "espn:401914559"
   },
   {
    "date": "2026-11-16",
@@ -429,17 +629,96 @@
    "opponent": "Alcorn State",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401916298"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Memphis Grizzlies",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "espn:401909996"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Temple",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401913667"
   },
   {
    "date": "2026-11-18",
-   "time": "7:00 PM",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Drexel",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919466"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Coppin State",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401918917"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "6:30 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Navy",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909516"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "North Carolina Central",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401920075"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "Ohio",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401929152"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Mary Baldwin",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401912211"
   },
   {
    "date": "2026-11-19",
@@ -449,7 +728,19 @@
    "opponent": "Buffalo Sabres",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020351"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "George Washington",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401913668"
   },
   {
    "date": "2026-11-20",
@@ -459,7 +750,63 @@
    "opponent": "Wagner",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401916299"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "James Madison",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401918678"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Morgan State",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401918918"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "La Salle",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919467"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "South Florida",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401918995"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Coppin State",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "espn:401909517"
   },
   {
    "date": "2026-11-21",
@@ -472,34 +819,26 @@
    "note": "Neutral-site final; the Spirit play in it only if they win their bracket"
   },
   {
-   "date": "2026-11-21",
-   "time": "",
+   "date": "2026-11-22",
+   "time": "1:00 PM",
    "sport": "ncaab",
-   "team": "Georgetown (M)",
-   "opponent": "Coppin State",
-   "venue": "mcd",
+   "team": "American Eagles (M)",
+   "opponent": "Towson",
+   "venue": "bender",
    "tag": "",
-   "note": ""
-  },
-  {
-   "date": "2026-11-21",
-   "time": "",
-   "sport": "ncaab",
-   "team": "George Mason (M)",
-   "opponent": "South Florida",
-   "venue": "eagle",
-   "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401912212"
   },
   {
    "date": "2026-11-22",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Orlando Magic",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910031"
   },
   {
    "date": "2026-11-23",
@@ -509,7 +848,41 @@
    "opponent": "Cincinnati Bengals",
    "venue": "nw",
    "tag": "MNF",
-   "note": ""
+   "note": "",
+   "id": "espn:401873078"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Notre Dame (MD)",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401932055"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "2:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Long Island Nets",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401914597"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Monmouth",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401918919"
   },
   {
    "date": "2026-11-24",
@@ -519,17 +892,8 @@
    "opponent": "Boston Celtics",
    "venue": "cap",
    "tag": "NBA Cup",
-   "note": ""
-  },
-  {
-   "date": "2026-11-24",
-   "time": "2:00 PM",
-   "sport": "nba",
-   "team": "Capital City Go-Go",
-   "opponent": "Long Island Nets",
-   "venue": "cfa",
-   "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "espn:401909315"
   },
   {
    "date": "2026-11-25",
@@ -539,7 +903,19 @@
    "opponent": "Philadelphia Flyers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020392"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "Longwood",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401920076"
   },
   {
    "date": "2026-11-27",
@@ -549,27 +925,74 @@
    "opponent": "Florida Panthers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020406"
   },
   {
    "date": "2026-11-27",
-   "time": "",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Radford",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401912213"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "4:00 PM",
    "sport": "ncaab",
    "team": "GW Revolutionaries (M)",
    "opponent": "UMBC",
    "venue": "smith",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401911212"
   },
   {
    "date": "2026-11-28",
-   "time": "",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Saint Francis",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401913670"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "Marist",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401920077"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "UMass Lowell",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401912214"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "5:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Orlando Magic",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910046"
   },
   {
    "date": "2026-11-28",
@@ -579,7 +1002,41 @@
    "opponent": "Penn State",
    "venue": "secu",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401858539"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Hampton",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401912215"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Washington Adventist",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919468"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "6:30 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Ball State",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401918921"
   },
   {
    "date": "2026-12-01",
@@ -589,37 +1046,63 @@
    "opponent": "Vancouver Canucks",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020439"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "SE Louisiana",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401911213"
   },
   {
    "date": "2026-12-02",
-   "time": "",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Duquesne",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928870"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "6:30 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "UMass Lowell",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909518"
   },
   {
    "date": "2026-12-02",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "ncaab",
    "team": "Georgetown (W)",
    "opponent": "Morgan State",
    "venue": "mcd",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401919071"
   },
   {
    "date": "2026-12-02",
    "time": "7:00 PM",
    "sport": "ncaab",
    "team": "Maryland Terrapins (M)",
-   "opponent": "American",
+   "opponent": "American University",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401912216"
   },
   {
    "date": "2026-12-03",
@@ -629,7 +1112,118 @@
    "opponent": "Long Island Nets",
    "venue": "cfa",
    "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "espn:401914638"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Grambling",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928391"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "Hampton",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927939"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Long Island University",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919811"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "8:30 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Hampton",
+   "venue": "cfa",
+   "tag": "",
+   "note": "",
+   "id": "espn:401929290"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Long Island University",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919470"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "DePaul",
+   "venue": "mcd",
+   "tag": "",
+   "note": "",
+   "id": "espn:401923116"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "Monmouth",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927943"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Lehigh",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401918922"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Loyola Maryland",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401913671"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "Morgan State",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401920079"
   },
   {
    "date": "2026-12-09",
@@ -639,17 +1233,30 @@
    "opponent": "College Park Skyhawks",
    "venue": "cfa",
    "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "espn:401914670"
   },
   {
    "date": "2026-12-09",
-   "time": "",
+   "time": "6:30 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Rider",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909519"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "American University",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401911214"
   },
   {
    "date": "2026-12-09",
@@ -659,7 +1266,19 @@
    "opponent": "Michigan State",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921886"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Loyola Chicago",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927394"
   },
   {
    "date": "2026-12-11",
@@ -669,37 +1288,74 @@
    "opponent": "College Park Skyhawks",
    "venue": "cfa",
    "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "espn:401914676"
   },
   {
-   "date": "2026-12-12",
-   "time": "",
-   "sport": "nba",
-   "team": "Wizards",
-   "opponent": "Charlotte Hornets",
-   "venue": "cap",
+   "date": "2026-12-11",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Michigan",
+   "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921855"
   },
   {
    "date": "2026-12-12",
-   "time": "",
+   "time": "12:00 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "North Carolina",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909520"
   },
   {
    "date": "2026-12-12",
-   "time": "",
+   "time": "12:30 PM",
    "sport": "ncaab",
    "team": "George Mason (M)",
    "opponent": "Old Dominion",
    "venue": "eagle",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401920080"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Rider",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401913672"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Charlotte Hornets",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "espn:401910091"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Mount St. Mary's",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401916170"
   },
   {
    "date": "2026-12-13",
@@ -709,7 +1365,30 @@
    "opponent": "Houston Texans",
    "venue": "nw",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401873113"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Loyola Maryland",
+   "venue": "mcd",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919072"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Towson",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401926860"
   },
   {
    "date": "2026-12-15",
@@ -719,7 +1398,8 @@
    "opponent": "Greensboro Swarm",
    "venue": "cfa",
    "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "espn:401914701"
   },
   {
    "date": "2026-12-15",
@@ -729,17 +1409,19 @@
    "opponent": "Morgan State",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401916300"
   },
   {
    "date": "2026-12-16",
-   "time": "",
+   "time": "6:30 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Sacred Heart",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401909521"
   },
   {
    "date": "2026-12-17",
@@ -749,7 +1431,8 @@
    "opponent": "Detroit Red Wings",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020555"
   },
   {
    "date": "2026-12-17",
@@ -759,17 +1442,52 @@
    "opponent": "Davidson",
    "venue": "mcd",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401919073"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "North Carolina A&T",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401921163"
   },
   {
    "date": "2026-12-18",
-   "time": "",
+   "time": "11:00 AM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "UMBC",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401916042"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "New York Knicks",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910135"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Seton Hall",
+   "venue": "cap",
+   "tag": "Big East",
+   "note": "",
+   "id": "espn:401920571"
   },
   {
    "date": "2026-12-19",
@@ -779,17 +1497,8 @@
    "opponent": "St. Louis Blues",
    "venue": "cap",
    "tag": "",
-   "note": ""
-  },
-  {
-   "date": "2026-12-19",
-   "time": "",
-   "sport": "ncaab",
-   "team": "Georgetown (M)",
-   "opponent": "Seton Hall",
-   "venue": "gtba",
-   "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020571"
   },
   {
    "date": "2026-12-20",
@@ -799,7 +1508,19 @@
    "opponent": "Atlanta Falcons",
    "venue": "nw",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401873127"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "Maryland Eastern Shore",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919631"
   },
   {
    "date": "2026-12-20",
@@ -809,27 +1530,41 @@
    "opponent": "Xavier",
    "venue": "mcd",
    "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "espn:401923021"
+  },
+  {
+   "date": "2026-12-21",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Maine",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401913674"
   },
   {
    "date": "2026-12-22",
-   "time": "",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "Bryant",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401920082"
+  },
+  {
+   "date": "2026-12-22",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Toronto Raptors",
    "venue": "cap",
    "tag": "",
-   "note": ""
-  },
-  {
-   "date": "2026-12-23",
-   "time": "",
-   "sport": "nba",
-   "team": "Wizards",
-   "opponent": "Cleveland Cavaliers",
-   "venue": "cap",
-   "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910169"
   },
   {
    "date": "2026-12-23",
@@ -839,27 +1574,52 @@
    "opponent": "Providence",
    "venue": "mcd",
    "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "espn:401923023"
   },
   {
-   "date": "2026-12-26",
+   "date": "2026-12-23",
    "time": "7:00 PM",
-   "sport": "nhl",
-   "team": "Capitals",
-   "opponent": "Columbus Blue Jackets",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Cleveland Cavaliers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910174"
   },
   {
    "date": "2026-12-26",
-   "time": "",
+   "time": "1:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Portland Trail Blazers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910187"
+  },
+  {
+   "date": "2026-12-26",
+   "time": "8:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Columbus Blue Jackets",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "nhl:2026020605"
+  },
+  {
+   "date": "2026-12-27",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "McDaniel",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401920083"
   },
   {
    "date": "2026-12-28",
@@ -869,7 +1629,8 @@
    "opponent": "Edmonton Oilers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020622"
   },
   {
    "date": "2026-12-29",
@@ -879,37 +1640,85 @@
    "opponent": "Radford",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401916302"
   },
   {
    "date": "2026-12-30",
-   "time": "",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "Dayton",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928875"
+  },
+  {
+   "date": "2026-12-30",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Minnesota",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401922064"
+  },
+  {
+   "date": "2026-12-30",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "Richmond",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927338"
+  },
+  {
+   "date": "2026-12-30",
+   "time": "8:00 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Xavier",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "espn:401920579"
+  },
+  {
+   "date": "2026-12-31",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Bowie State",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401932056"
   },
   {
    "date": "2027-01-01",
-   "time": "",
+   "time": "5:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "San Antonio Spurs",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910235"
   },
   {
    "date": "2027-01-02",
-   "time": "7:00 PM",
-   "sport": "nhl",
-   "team": "Capitals",
-   "opponent": "Ottawa Senators",
-   "venue": "cap",
-   "tag": "",
-   "note": ""
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Holy Cross",
+   "venue": "bender",
+   "tag": "Patriot League",
+   "note": "",
+   "id": "espn:401921292"
   },
   {
    "date": "2027-01-02",
@@ -919,27 +1728,41 @@
    "opponent": "Creighton",
    "venue": "mcd",
    "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "espn:401923031"
   },
   {
    "date": "2027-01-02",
-   "time": "6:00 PM",
+   "time": "2:00 PM",
    "sport": "ncaab",
-   "team": "Maryland Terrapins (M)",
-   "opponent": "UCLA",
-   "venue": "xfin",
+   "team": "Howard Bison (W)",
+   "opponent": "South Carolina State",
+   "venue": "burr",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401925986"
   },
   {
    "date": "2027-01-02",
-   "time": "",
+   "time": "3:00 PM",
    "sport": "ncaab",
-   "team": "American Eagles (M)",
-   "opponent": "Holy Cross",
-   "venue": "bender",
-   "tag": "Patriot League",
-   "note": ""
+   "team": "George Mason (W)",
+   "opponent": "Rhode Island",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928883"
+  },
+  {
+   "date": "2027-01-02",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Saint Joseph's",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927221"
   },
   {
    "date": "2027-01-02",
@@ -949,27 +1772,63 @@
    "opponent": "South Carolina State",
    "venue": "burr",
    "tag": "MEAC",
-   "note": ""
+   "note": "",
+   "id": "espn:401925929"
+  },
+  {
+   "date": "2027-01-02",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (M)",
+   "opponent": "UCLA",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401921894"
+  },
+  {
+   "date": "2027-01-02",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Ottawa Senators",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "nhl:2026020658"
   },
   {
    "date": "2027-01-03",
-   "time": "",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Villanova",
+   "venue": "cap",
+   "tag": "Big East",
+   "note": "",
+   "id": "espn:401920588"
+  },
+  {
+   "date": "2027-01-03",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "LA Clippers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910255"
   },
   {
-   "date": "2027-01-03",
-   "time": "",
-   "sport": "ncaab",
-   "team": "Georgetown (M)",
-   "opponent": "Villanova",
-   "venue": "gtba",
-   "tag": "Big East",
-   "note": ""
+   "date": "2027-01-04",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Wisconsin Herd",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401914772"
   },
   {
    "date": "2027-01-04",
@@ -979,27 +1838,19 @@
    "opponent": "Toronto Maple Leafs",
    "venue": "cap",
    "tag": "",
-   "note": ""
-  },
-  {
-   "date": "2027-01-04",
-   "time": "7:00 PM",
-   "sport": "nba",
-   "team": "Capital City Go-Go",
-   "opponent": "Wisconsin Herd",
-   "venue": "cfa",
-   "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020676"
   },
   {
    "date": "2027-01-05",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Los Angeles Lakers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910268"
   },
   {
    "date": "2027-01-05",
@@ -1009,7 +1860,30 @@
    "opponent": "USC",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921901"
+  },
+  {
+   "date": "2027-01-06",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Colgate",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919473"
+  },
+  {
+   "date": "2027-01-06",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "St. Bonaventure",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928894"
   },
   {
    "date": "2027-01-06",
@@ -1019,37 +1893,129 @@
    "opponent": "Wisconsin Herd",
    "venue": "cfa",
    "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "espn:401914782"
+  },
+  {
+   "date": "2027-01-06",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "Fordham",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927224"
   },
   {
    "date": "2027-01-07",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Oklahoma City Thunder",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910282"
   },
   {
    "date": "2027-01-08",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Minnesota Timberwolves",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910292"
+  },
+  {
+   "date": "2027-01-08",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "USC",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401922086"
+  },
+  {
+   "date": "2027-01-09",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "Creighton",
+   "venue": "cap",
+   "tag": "Big East",
+   "note": "",
+   "id": "espn:401920596"
+  },
+  {
+   "date": "2027-01-09",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "VCU",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927236"
+  },
+  {
+   "date": "2027-01-09",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "Maryland Eastern Shore",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919634"
+  },
+  {
+   "date": "2027-01-09",
+   "time": "3:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "St. Bonaventure",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928900"
+  },
+  {
+   "date": "2027-01-09",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Lafayette",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401924927"
   },
   {
    "date": "2027-01-09",
    "time": "",
    "sport": "ncaab",
-   "team": "Georgetown (M)",
-   "opponent": "Creighton",
-   "venue": "gtba",
-   "tag": "Big East",
-   "note": ""
+   "team": "Howard Bison (M)",
+   "opponent": "Maryland Eastern Shore",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401925846"
+  },
+  {
+   "date": "2027-01-10",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Davidson",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928901"
   },
   {
    "date": "2027-01-10",
@@ -1059,17 +2025,19 @@
    "opponent": "Dallas Cowboys",
    "venue": "nw",
    "tag": "Finale",
-   "note": "Saturday Jan. 9 or Sunday Jan. 10; NFL sets the date late in the season"
+   "note": "Saturday Jan. 9 or Sunday Jan. 10; NFL sets the date late in the season",
+   "id": "espn:401873175"
   },
   {
    "date": "2027-01-11",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Atlanta Hawks",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910314"
   },
   {
    "date": "2027-01-12",
@@ -1079,7 +2047,52 @@
    "opponent": "Vegas Golden Knights",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020731"
+  },
+  {
+   "date": "2027-01-13",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Loyola Maryland",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919475"
+  },
+  {
+   "date": "2027-01-13",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Fordham",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928903"
+  },
+  {
+   "date": "2027-01-13",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "St. Bonaventure",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927242"
+  },
+  {
+   "date": "2027-01-13",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Seton Hall",
+   "venue": "mcd",
+   "tag": "",
+   "note": "",
+   "id": "espn:401923049"
   },
   {
    "date": "2027-01-14",
@@ -1089,17 +2102,30 @@
    "opponent": "Carolina Hurricanes",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020748"
   },
   {
    "date": "2027-01-16",
-   "time": "7:00 PM",
-   "sport": "nhl",
-   "team": "Capitals",
-   "opponent": "Colorado Avalanche",
-   "venue": "cap",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Boston University",
+   "venue": "bender",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401919476"
+  },
+  {
+   "date": "2027-01-16",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "North Carolina Central",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401930222"
   },
   {
    "date": "2027-01-16",
@@ -1109,17 +2135,41 @@
    "opponent": "Illinois",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921920"
+  },
+  {
+   "date": "2027-01-16",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Colorado Avalanche",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "nhl:2026020765"
+  },
+  {
+   "date": "2027-01-16",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "North Carolina Central",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401930406"
   },
   {
    "date": "2027-01-17",
-   "time": "",
+   "time": "1:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Indiana Pacers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910358"
   },
   {
    "date": "2027-01-17",
@@ -1129,27 +2179,41 @@
    "opponent": "Maine Celtics",
    "venue": "cfa",
    "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "espn:401914853"
   },
   {
    "date": "2027-01-18",
-   "time": "",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "George Mason",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927247"
+  },
+  {
+   "date": "2027-01-18",
+   "time": "3:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Boston Celtics",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910365"
   },
   {
-   "date": "2027-01-19",
-   "time": "7:00 PM",
-   "sport": "nhl",
-   "team": "Capitals",
-   "opponent": "Montreal Canadiens",
-   "venue": "cap",
+   "date": "2027-01-18",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Morehouse",
+   "venue": "burr",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401932057"
   },
   {
    "date": "2027-01-19",
@@ -1159,7 +2223,19 @@
    "opponent": "Maine Celtics",
    "venue": "cfa",
    "tag": "G League",
-   "note": ""
+   "note": "",
+   "id": "espn:401914861"
+  },
+  {
+   "date": "2027-01-19",
+   "time": "7:00 PM",
+   "sport": "nhl",
+   "team": "Capitals",
+   "opponent": "Montréal Canadiens",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "nhl:2026020789"
   },
   {
    "date": "2027-01-19",
@@ -1169,17 +2245,96 @@
    "opponent": "Rutgers",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921928"
   },
   {
    "date": "2027-01-20",
-   "time": "",
+   "time": "11:00 AM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Villanova",
+   "venue": "mcd",
+   "tag": "",
+   "note": "",
+   "id": "espn:401923058"
+  },
+  {
+   "date": "2027-01-20",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "VCU",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928921"
+  },
+  {
+   "date": "2027-01-20",
+   "time": "7:00 PM",
    "sport": "ncaab",
    "team": "American Eagles (M)",
    "opponent": "Navy",
    "venue": "bender",
    "tag": "Patriot League",
-   "note": ""
+   "note": "",
+   "id": "espn:401921253"
+  },
+  {
+   "date": "2027-01-20",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "Davidson",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928915"
+  },
+  {
+   "date": "2027-01-21",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "Coppin State",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919603"
+  },
+  {
+   "date": "2027-01-21",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Windy City Bulls",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401914873"
+  },
+  {
+   "date": "2027-01-21",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Ohio State",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401922116"
+  },
+  {
+   "date": "2027-01-22",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Windy City Bulls",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401914877"
   },
   {
    "date": "2027-01-22",
@@ -1189,27 +2344,63 @@
    "opponent": "New York Islanders",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020808"
   },
   {
    "date": "2027-01-23",
-   "time": "",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Lafayette",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919478"
+  },
+  {
+   "date": "2027-01-23",
+   "time": "6:00 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Providence",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "espn:401920617"
   },
   {
-   "date": "2027-01-26",
-   "time": "",
+   "date": "2027-01-23",
+   "time": "8:00 PM",
    "sport": "ncaab",
-   "team": "Georgetown (M)",
-   "opponent": "UConn",
-   "venue": "gtba",
-   "tag": "Big East",
-   "note": ""
+   "team": "George Mason (M)",
+   "opponent": "Loyola Chicago",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927256"
+  },
+  {
+   "date": "2027-01-24",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "UCLA",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401922125"
+  },
+  {
+   "date": "2027-01-25",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Coppin State",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401925762"
   },
   {
    "date": "2027-01-26",
@@ -1219,37 +2410,140 @@
    "opponent": "Wisconsin",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921863"
+  },
+  {
+   "date": "2027-01-26",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (M)",
+   "opponent": "UConn",
+   "venue": "cap",
+   "tag": "Big East",
+   "note": "",
+   "id": "espn:401920619"
   },
   {
    "date": "2027-01-27",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "ncaab",
    "team": "American Eagles (M)",
    "opponent": "Bucknell",
    "venue": "bender",
    "tag": "Patriot League",
-   "note": ""
+   "note": "",
+   "id": "espn:401924929"
+  },
+  {
+   "date": "2027-01-27",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Richmond",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927262"
+  },
+  {
+   "date": "2027-01-27",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "Duquesne",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928929"
   },
   {
    "date": "2027-01-28",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Sacramento Kings",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910440"
+  },
+  {
+   "date": "2027-01-29",
+   "time": "2:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Grand Rapids Gold",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401914919"
   },
   {
    "date": "2027-01-30",
-   "time": "",
+   "time": "2:00 PM",
    "sport": "ncaab",
    "team": "American Eagles (M)",
    "opponent": "Boston University",
    "venue": "bender",
    "tag": "Patriot League",
-   "note": ""
+   "note": "",
+   "id": "espn:401923410"
+  },
+  {
+   "date": "2027-01-30",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "La Salle",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928936"
+  },
+  {
+   "date": "2027-01-30",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Butler",
+   "venue": "mcd",
+   "tag": "",
+   "note": "",
+   "id": "espn:401923070"
+  },
+  {
+   "date": "2027-01-30",
+   "time": "4:30 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "Saint Joseph's",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927270"
+  },
+  {
+   "date": "2027-01-30",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Westchester Knicks",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401914930"
+  },
+  {
+   "date": "2027-02-01",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Michigan State",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401922142"
   },
   {
    "date": "2027-02-02",
@@ -1259,27 +2553,129 @@
    "opponent": "Winnipeg Jets",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020884"
   },
   {
    "date": "2027-02-03",
-   "time": "",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Army",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919481"
+  },
+  {
+   "date": "2027-02-03",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Duquesne",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927274"
+  },
+  {
+   "date": "2027-02-03",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "VCU",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928946"
+  },
+  {
+   "date": "2027-02-03",
+   "time": "8:30 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "DePaul",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "espn:401920633"
+  },
+  {
+   "date": "2027-02-04",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "New Orleans Pelicans",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "espn:401910488"
+  },
+  {
+   "date": "2027-02-05",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Delaware Blue Coats",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401914964"
+  },
+  {
+   "date": "2027-02-06",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "George Washington",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927279"
+  },
+  {
+   "date": "2027-02-06",
+   "time": "4:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Loyola Maryland",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401921280"
+  },
+  {
+   "date": "2027-02-07",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "George Washington",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928951"
+  },
+  {
+   "date": "2027-02-07",
+   "time": "3:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Delaware Blue Coats",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401914979"
   },
   {
    "date": "2027-02-08",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Chicago Bulls",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910524"
   },
   {
    "date": "2027-02-08",
@@ -1289,7 +2685,19 @@
    "opponent": "Lehigh",
    "venue": "bender",
    "tag": "Patriot League",
-   "note": "Men's and women's doubleheader"
+   "note": "Men's and women's doubleheader",
+   "id": "espn:401924931"
+  },
+  {
+   "date": "2027-02-08",
+   "time": "",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Lehigh",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919483"
   },
   {
    "date": "2027-02-09",
@@ -1299,47 +2707,74 @@
    "opponent": "Nebraska",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921962"
   },
   {
    "date": "2027-02-10",
-   "time": "",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "Fordham",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928955"
+  },
+  {
+   "date": "2027-02-10",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "Marquette",
+   "venue": "mcd",
+   "tag": "",
+   "note": "",
+   "id": "espn:401923087"
+  },
+  {
+   "date": "2027-02-10",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Miami Heat",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910540"
+  },
+  {
+   "date": "2027-02-11",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "Delaware State",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401930223"
   },
   {
    "date": "2027-02-12",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Brooklyn Nets",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910554"
   },
   {
    "date": "2027-02-13",
-   "time": "",
-   "sport": "nba",
-   "team": "Wizards",
-   "opponent": "Milwaukee Bucks",
-   "venue": "cap",
-   "tag": "",
-   "note": ""
-  },
-  {
-   "date": "2027-02-13",
-   "time": "",
+   "time": "12:00 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Butler",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "espn:401920644"
   },
   {
    "date": "2027-02-13",
@@ -1349,7 +2784,63 @@
    "opponent": "Indiana",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921794"
+  },
+  {
+   "date": "2027-02-13",
+   "time": "1:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Navy",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919484"
+  },
+  {
+   "date": "2027-02-13",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Saint Joseph's",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928967"
+  },
+  {
+   "date": "2027-02-13",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "La Salle",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927294"
+  },
+  {
+   "date": "2027-02-13",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Wizards",
+   "opponent": "Milwaukee Bucks",
+   "venue": "cap",
+   "tag": "",
+   "note": "",
+   "id": "espn:401910565"
+  },
+  {
+   "date": "2027-02-14",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Nebraska",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401922170"
   },
   {
    "date": "2027-02-14",
@@ -1359,17 +2850,41 @@
    "opponent": "Utah Mammoth",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020928"
   },
   {
    "date": "2027-02-15",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Phoenix Suns",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910574"
+  },
+  {
+   "date": "2027-02-15",
+   "time": "7:30 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Delaware State",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927348"
+  },
+  {
+   "date": "2027-02-16",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Noblesville Boom",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401915025"
   },
   {
    "date": "2027-02-16",
@@ -1379,17 +2894,85 @@
    "opponent": "Anaheim Ducks",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020941"
+  },
+  {
+   "date": "2027-02-16",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Dayton",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927298"
   },
   {
    "date": "2027-02-17",
-   "time": "",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Army",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401924932"
+  },
+  {
+   "date": "2027-02-17",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "La Salle",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927301"
+  },
+  {
+   "date": "2027-02-17",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Illinois",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401922175"
+  },
+  {
+   "date": "2027-02-17",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Miami Heat",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910588"
+  },
+  {
+   "date": "2027-02-18",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Noblesville Boom",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401915043"
+  },
+  {
+   "date": "2027-02-18",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "UConn",
+   "venue": "mcd",
+   "tag": "",
+   "note": "",
+   "id": "espn:401923099"
   },
   {
    "date": "2027-02-19",
@@ -1399,17 +2982,41 @@
    "opponent": "San Jose Sharks",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020961"
   },
   {
    "date": "2027-02-20",
-   "time": "",
+   "time": "1:00 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "St. John's",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "espn:401920658"
+  },
+  {
+   "date": "2027-02-20",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "George Mason",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928975"
+  },
+  {
+   "date": "2027-02-21",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (M)",
+   "opponent": "Colgate",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401920795"
   },
   {
    "date": "2027-02-21",
@@ -1419,7 +3026,19 @@
    "opponent": "Nashville Predators",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020981"
+  },
+  {
+   "date": "2027-02-23",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Bucknell",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919487"
   },
   {
    "date": "2027-02-23",
@@ -1429,7 +3048,19 @@
    "opponent": "New York Rangers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026020994"
+  },
+  {
+   "date": "2027-02-24",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (W)",
+   "opponent": "Rhode Island",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928984"
   },
   {
    "date": "2027-02-24",
@@ -1439,17 +3070,107 @@
    "opponent": "Minnesota",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401921993"
+  },
+  {
+   "date": "2027-02-26",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "American Eagles (W)",
+   "opponent": "Holy Cross",
+   "venue": "bender",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919488"
+  },
+  {
+   "date": "2027-02-26",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "VCU",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927314"
+  },
+  {
+   "date": "2027-02-27",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Georgetown (W)",
+   "opponent": "St. John's",
+   "venue": "mcd",
+   "tag": "",
+   "note": "",
+   "id": "espn:401923111"
+  },
+  {
+   "date": "2027-02-27",
+   "time": "2:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "Morgan State",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919625"
+  },
+  {
+   "date": "2027-02-27",
+   "time": "3:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (W)",
+   "opponent": "Saint Joseph's",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928991"
+  },
+  {
+   "date": "2027-02-27",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Saint Louis",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927320"
+  },
+  {
+   "date": "2027-02-27",
+   "time": "",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Morgan State",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401928857"
+  },
+  {
+   "date": "2027-02-28",
+   "time": "12:00 PM",
+   "sport": "ncaab",
+   "team": "Maryland Terrapins (W)",
+   "opponent": "Rutgers",
+   "venue": "xfin",
+   "tag": "",
+   "note": "",
+   "id": "espn:401922206"
   },
   {
    "date": "2027-03-02",
-   "time": "",
+   "time": "6:30 PM",
    "sport": "ncaab",
    "team": "Georgetown (M)",
    "opponent": "Marquette",
-   "venue": "gtba",
+   "venue": "cap",
    "tag": "Big East",
-   "note": ""
+   "note": "",
+   "id": "espn:401920669"
   },
   {
    "date": "2027-03-03",
@@ -1459,17 +3180,63 @@
    "opponent": "Carolina Hurricanes",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026021050"
+  },
+  {
+   "date": "2027-03-03",
+   "time": "7:00 PM",
+   "sport": "ncaab",
+   "team": "George Mason (M)",
+   "opponent": "Rhode Island",
+   "venue": "eagle",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927857"
+  },
+  {
+   "date": "2027-03-04",
+   "time": "6:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (W)",
+   "opponent": "Norfolk State",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401919661"
+  },
+  {
+   "date": "2027-03-04",
+   "time": "8:00 PM",
+   "sport": "ncaab",
+   "team": "Howard Bison (M)",
+   "opponent": "Norfolk State",
+   "venue": "burr",
+   "tag": "",
+   "note": "",
+   "id": "espn:401925913"
   },
   {
    "date": "2027-03-06",
-   "time": "",
+   "time": "4:30 PM",
+   "sport": "ncaab",
+   "team": "GW Revolutionaries (M)",
+   "opponent": "Loyola Chicago",
+   "venue": "smith",
+   "tag": "",
+   "note": "",
+   "id": "espn:401927331"
+  },
+  {
+   "date": "2027-03-06",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Utah Jazz",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910671"
   },
   {
    "date": "2027-03-07",
@@ -1479,7 +3246,8 @@
    "opponent": "Northwestern",
    "venue": "xfin",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401922014"
   },
   {
    "date": "2027-03-09",
@@ -1489,27 +3257,52 @@
    "opponent": "Calgary Flames",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026021096"
   },
   {
    "date": "2027-03-15",
-   "time": "1:00 PM",
+   "time": "3:00 PM",
    "sport": "nhl",
    "team": "Capitals",
    "opponent": "Tampa Bay Lightning",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026021138"
   },
   {
    "date": "2027-03-16",
-   "time": "",
+   "time": "11:30 AM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Laketown Squadron",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401915162"
+  },
+  {
+   "date": "2027-03-16",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "New York Knicks",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910739"
+  },
+  {
+   "date": "2027-03-17",
+   "time": "2:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Laketown Squadron",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401915170"
   },
   {
    "date": "2027-03-17",
@@ -1519,17 +3312,52 @@
    "opponent": "New York Islanders",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026021154"
   },
   {
    "date": "2027-03-18",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Philadelphia 76ers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910758"
+  },
+  {
+   "date": "2027-03-21",
+   "time": "3:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Cleveland Charge",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401915193"
+  },
+  {
+   "date": "2027-03-22",
+   "time": "",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Baltimore Orioles",
+   "venue": "nats",
+   "tag": "Spring training",
+   "note": "",
+   "id": "mlb:868684"
+  },
+  {
+   "date": "2027-03-23",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Cleveland Charge",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401915207"
   },
   {
    "date": "2027-03-23",
@@ -1539,27 +3367,41 @@
    "opponent": "Detroit Red Wings",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026021199"
   },
   {
    "date": "2027-03-24",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Denver Nuggets",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910802"
   },
   {
    "date": "2027-03-25",
-   "time": "",
+   "time": "4:05 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Philadelphia Phillies",
    "venue": "nats",
    "tag": "Opening Day",
-   "note": "Start of a six-game homestand that also brings the Mets and Braves"
+   "note": "Start of a six-game homestand that also brings the Mets and Braves",
+   "id": "mlb:852187"
+  },
+  {
+   "date": "2027-03-25",
+   "time": "7:00 PM",
+   "sport": "nba",
+   "team": "Capital City Go-Go",
+   "opponent": "Westchester Knicks",
+   "venue": "cfa",
+   "tag": "G League",
+   "note": "",
+   "id": "espn:401915221"
   },
   {
    "date": "2027-03-26",
@@ -1569,27 +3411,74 @@
    "opponent": "Boston Bruins",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026021224"
   },
   {
    "date": "2027-03-27",
-   "time": "",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Philadelphia Phillies",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852188"
+  },
+  {
+   "date": "2027-03-27",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Golden State Warriors",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910826"
   },
   {
    "date": "2027-03-28",
-   "time": "",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Philadelphia Phillies",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852176"
+  },
+  {
+   "date": "2027-03-28",
+   "time": "6:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Dallas Mavericks",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910835"
+  },
+  {
+   "date": "2027-03-29",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "New York Mets",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852178"
+  },
+  {
+   "date": "2027-03-30",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "New York Mets",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852170"
   },
   {
    "date": "2027-03-30",
@@ -1599,27 +3488,41 @@
    "opponent": "Chicago Blackhawks",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026021254"
   },
   {
    "date": "2027-03-31",
-   "time": "",
+   "time": "1:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "New York Mets",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852167"
+  },
+  {
+   "date": "2027-03-31",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Chicago Bulls",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910857"
   },
   {
    "date": "2027-04-02",
-   "time": "",
+   "time": "7:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Philadelphia 76ers",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910868"
   },
   {
    "date": "2027-04-03",
@@ -1629,7 +3532,8 @@
    "opponent": "Columbus Blue Jackets",
    "venue": "cap",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026021280"
   },
   {
    "date": "2027-04-04",
@@ -1639,17 +3543,19 @@
    "opponent": "Pittsburgh Penguins",
    "venue": "cap",
    "tag": "Home finale",
-   "note": ""
+   "note": "",
+   "id": "nhl:2026021293"
   },
   {
    "date": "2027-04-09",
-   "time": "",
+   "time": "6:45 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Boston Red Sox",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852172"
   },
   {
    "date": "2027-04-09",
@@ -1663,33 +3569,36 @@
   },
   {
    "date": "2027-04-10",
-   "time": "",
+   "time": "4:05 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Boston Red Sox",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852169"
   },
   {
    "date": "2027-04-11",
-   "time": "",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Boston Red Sox",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852171"
+  },
+  {
+   "date": "2027-04-11",
+   "time": "6:00 PM",
    "sport": "nba",
    "team": "Wizards",
    "opponent": "Detroit Pistons",
    "venue": "cap",
    "tag": "Home finale",
-   "note": ""
-  },
-  {
-   "date": "2027-04-11",
-   "time": "",
-   "sport": "mlb",
-   "team": "Nationals",
-   "opponent": "Boston Red Sox",
-   "venue": "nats",
-   "tag": "",
-   "note": ""
+   "note": "",
+   "id": "espn:401910943"
   },
   {
    "date": "2027-04-11",
@@ -1702,154 +3611,796 @@
    "note": ""
   },
   {
+   "date": "2027-04-13",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852166"
+  },
+  {
+   "date": "2027-04-14",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852177"
+  },
+  {
+   "date": "2027-04-15",
+   "time": "1:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852168"
+  },
+  {
    "date": "2027-04-23",
-   "time": "",
+   "time": "6:45 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Los Angeles Dodgers",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852174"
   },
   {
    "date": "2027-04-24",
-   "time": "",
+   "time": "4:05 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Los Angeles Dodgers",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852175"
   },
   {
    "date": "2027-04-25",
-   "time": "",
+   "time": "1:35 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Los Angeles Dodgers",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852173"
+  },
+  {
+   "date": "2027-04-26",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Texas Rangers",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852163"
+  },
+  {
+   "date": "2027-04-27",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Texas Rangers",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852153"
+  },
+  {
+   "date": "2027-04-28",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Texas Rangers",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852155"
+  },
+  {
+   "date": "2027-05-11",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Colorado Rockies",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852154"
+  },
+  {
+   "date": "2027-05-12",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Colorado Rockies",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852160"
+  },
+  {
+   "date": "2027-05-13",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Colorado Rockies",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852158"
+  },
+  {
+   "date": "2027-05-14",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Cleveland Guardians",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852165"
+  },
+  {
+   "date": "2027-05-15",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Cleveland Guardians",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852162"
+  },
+  {
+   "date": "2027-05-16",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Cleveland Guardians",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852161"
   },
   {
    "date": "2027-05-25",
-   "time": "",
+   "time": "6:45 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Baltimore Orioles",
    "venue": "nats",
    "tag": "Beltway Series",
-   "note": ""
+   "note": "",
+   "id": "mlb:852157"
   },
   {
    "date": "2027-05-26",
-   "time": "",
+   "time": "6:45 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Baltimore Orioles",
    "venue": "nats",
    "tag": "Beltway Series",
-   "note": ""
+   "note": "",
+   "id": "mlb:852156"
   },
   {
    "date": "2027-05-27",
-   "time": "",
+   "time": "6:45 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Baltimore Orioles",
    "venue": "nats",
    "tag": "Beltway Series",
-   "note": ""
+   "note": "",
+   "id": "mlb:852159"
+  },
+  {
+   "date": "2027-05-28",
+   "time": "7:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Miami Marlins",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852152"
+  },
+  {
+   "date": "2027-05-29",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Miami Marlins",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852164"
+  },
+  {
+   "date": "2027-05-30",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Miami Marlins",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852144"
+  },
+  {
+   "date": "2027-06-08",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Tampa Bay Rays",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852142"
+  },
+  {
+   "date": "2027-06-09",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Tampa Bay Rays",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852145"
+  },
+  {
+   "date": "2027-06-10",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Tampa Bay Rays",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852151"
+  },
+  {
+   "date": "2027-06-11",
+   "time": "7:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Arizona Diamondbacks",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852141"
+  },
+  {
+   "date": "2027-06-12",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Arizona Diamondbacks",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852143"
+  },
+  {
+   "date": "2027-06-13",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Arizona Diamondbacks",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852150"
+  },
+  {
+   "date": "2027-06-22",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "St. Louis Cardinals",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852149"
+  },
+  {
+   "date": "2027-06-23",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "St. Louis Cardinals",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852146"
+  },
+  {
+   "date": "2027-06-24",
+   "time": "1:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "St. Louis Cardinals",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852147"
   },
   {
    "date": "2027-07-02",
-   "time": "",
+   "time": "7:05 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Athletics",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852148"
   },
   {
    "date": "2027-07-03",
-   "time": "",
+   "time": "4:05 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Athletics",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852139"
   },
   {
    "date": "2027-07-04",
-   "time": "",
+   "time": "11:05 AM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Athletics",
    "venue": "nats",
    "tag": "July 4th",
-   "note": ""
+   "note": "",
+   "id": "mlb:852140"
   },
   {
    "date": "2027-07-06",
-   "time": "",
+   "time": "6:45 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Milwaukee Brewers",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852134"
   },
   {
    "date": "2027-07-07",
-   "time": "",
+   "time": "6:45 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Milwaukee Brewers",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852132"
   },
   {
    "date": "2027-07-08",
-   "time": "",
+   "time": "4:05 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Milwaukee Brewers",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852131"
   },
   {
    "date": "2027-07-09",
-   "time": "",
+   "time": "7:05 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Philadelphia Phillies",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852126"
   },
   {
    "date": "2027-07-10",
-   "time": "",
+   "time": "4:05 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Philadelphia Phillies",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852135"
   },
   {
    "date": "2027-07-11",
-   "time": "",
+   "time": "1:35 PM",
    "sport": "mlb",
    "team": "Nationals",
    "opponent": "Philadelphia Phillies",
    "venue": "nats",
    "tag": "",
-   "note": ""
+   "note": "",
+   "id": "mlb:852129"
+  },
+  {
+   "date": "2027-07-22",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852127"
+  },
+  {
+   "date": "2027-07-23",
+   "time": "7:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852128"
+  },
+  {
+   "date": "2027-07-24",
+   "time": "6:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852130"
+  },
+  {
+   "date": "2027-07-25",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Atlanta Braves",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852138"
+  },
+  {
+   "date": "2027-07-26",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Chicago Cubs",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852137"
+  },
+  {
+   "date": "2027-07-27",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Chicago Cubs",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852133"
+  },
+  {
+   "date": "2027-07-28",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Chicago Cubs",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852136"
+  },
+  {
+   "date": "2027-08-03",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Pittsburgh Pirates",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852114"
+  },
+  {
+   "date": "2027-08-04",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Pittsburgh Pirates",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852125"
+  },
+  {
+   "date": "2027-08-05",
+   "time": "1:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Pittsburgh Pirates",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852123"
+  },
+  {
+   "date": "2027-08-13",
+   "time": "7:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "San Diego Padres",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852122"
+  },
+  {
+   "date": "2027-08-14",
+   "time": "6:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "San Diego Padres",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852121"
+  },
+  {
+   "date": "2027-08-15",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "San Diego Padres",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852124"
+  },
+  {
+   "date": "2027-08-16",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "San Diego Padres",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852117"
+  },
+  {
+   "date": "2027-08-17",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "San Francisco Giants",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852115"
+  },
+  {
+   "date": "2027-08-18",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "San Francisco Giants",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852113"
+  },
+  {
+   "date": "2027-08-19",
+   "time": "1:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "San Francisco Giants",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852120"
+  },
+  {
+   "date": "2027-08-27",
+   "time": "7:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Detroit Tigers",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852118"
+  },
+  {
+   "date": "2027-08-28",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Detroit Tigers",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852119"
+  },
+  {
+   "date": "2027-08-29",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Detroit Tigers",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852116"
+  },
+  {
+   "date": "2027-08-30",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Cincinnati Reds",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852112"
+  },
+  {
+   "date": "2027-08-31",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Cincinnati Reds",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852101"
+  },
+  {
+   "date": "2027-09-01",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Cincinnati Reds",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852110"
+  },
+  {
+   "date": "2027-09-03",
+   "time": "7:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Miami Marlins",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852107"
+  },
+  {
+   "date": "2027-09-04",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Miami Marlins",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852100"
+  },
+  {
+   "date": "2027-09-05",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Miami Marlins",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852103"
+  },
+  {
+   "date": "2027-09-13",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "New York Mets",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852109"
+  },
+  {
+   "date": "2027-09-14",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "New York Mets",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852108"
+  },
+  {
+   "date": "2027-09-15",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "New York Mets",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852105"
+  },
+  {
+   "date": "2027-09-16",
+   "time": "1:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "New York Mets",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852106"
+  },
+  {
+   "date": "2027-09-17",
+   "time": "6:45 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Chicago White Sox",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852102"
+  },
+  {
+   "date": "2027-09-18",
+   "time": "4:05 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Chicago White Sox",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852111"
+  },
+  {
+   "date": "2027-09-19",
+   "time": "1:35 PM",
+   "sport": "mlb",
+   "team": "Nationals",
+   "opponent": "Chicago White Sox",
+   "venue": "nats",
+   "tag": "",
+   "note": "",
+   "id": "mlb:852104"
   },
   {
    "date": "2027-09-21",

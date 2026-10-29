@@ -10,6 +10,9 @@ Every in-person sporting event in and around Washington, DC, as a small installa
 | `events.json` | All the games and events. Edit this to change the schedule. |
 | `manifest.json`, `icon*.png`, `icon.svg` | Let phones install it to the home screen |
 | `sw.js` | Lets the app open offline with the last schedule it loaded |
+| `scripts/update.py` | Pulls the latest schedules from the NHL, MLB and ESPN feeds into `events.json` |
+| `scripts/validate.py` | Checks `events.json` for mistakes before it goes live |
+| `.github/workflows/` | Runs the two scripts above on GitHub automatically |
 
 No build step, no server code, no database. Any static host works.
 
@@ -32,9 +35,29 @@ No build step, no server code, no database. Any static host works.
 
 Open the link in Safari (iPhone) → Share → **Add to Home Screen**, or in Chrome (Android) → menu → **Install app**.
 
-## Updating the schedule
+## How the schedule stays up to date
 
-Edit `events.json`. Each event looks like this:
+Every morning (about 6 AM Eastern) GitHub runs **Update schedule**, which:
+
+1. Downloads the latest schedules (all free, no keys):
+   - **Capitals** from the NHL's schedule API
+   - **Nationals** from MLB's stats API
+   - **Everyone else** from ESPN's public schedule data: Wizards, Mystics, Capital City Go-Go, Commanders, DC Defenders, D.C. United, Washington Spirit, Maryland and Howard football, and men's and women's basketball for Maryland, Georgetown, GW, Howard, American and George Mason
+2. Keeps only games at DC-area venues (home games, plus neutral-site games in the area).
+3. Checks the result with `scripts/validate.py`. If anything looks wrong, nothing is published.
+4. Saves `events.json`, and GitHub Pages republishes the site a minute later.
+
+**Seeing what happened:** open the repo's **Actions** tab → **Update schedule** → pick a run. The summary lists every source (✅ or ❌) and each game that was added, changed or removed.
+
+**Running it right now:** Actions → **Update schedule** → **Run workflow**.
+
+**If a source fails**, that team's games are left exactly as they were and the run shows a ❌ for it; the other teams still update. If upcoming games suddenly drop by more than 20%, the whole update is refused, in case a feed broke.
+
+**Heads-up:** GitHub pauses scheduled jobs in a repo that has had no activity for 60 days. The daily update commits keep it active, but if it ever pauses, GitHub shows a button on the Actions tab to turn it back on.
+
+## Editing the schedule by hand
+
+Edit `events.json` (on GitHub: open the file → pencil icon → **Commit changes**). Each event looks like this:
 
 ```json
 {
@@ -45,13 +68,19 @@ Edit `events.json`. Each event looks like this:
   "opponent": "Philadelphia Eagles",
   "venue": "nw",
   "tag": "SNF",
-  "note": ""
+  "note": "",
+  "id": "espn:401873168"
 }
 ```
 
 - `time`: leave `""` if not announced yet (shows "Time TBA").
-- `sport`: one of `nfl`, `nhl`, `nba` (pro basketball incl. G League), `mlb`, `soc`, `ncaaf`, `ncaab`, `oth` (special events).
+- `sport`: one of `nfl` (pro football, incl. UFL), `nhl`, `nba` (pro basketball incl. WNBA and G League), `mlb`, `soc`, `ncaaf`, `ncaab`, `oth` (special events).
 - `venue`: a short code defined in `index.html` (search for `const V=`), e.g. `cap` = Capital One Arena, `nw` = Northwest Stadium, `audi` = Audi Field, `nats` = Nationals Park. You can also type a full venue name like `"Bender Arena · American U, DC"`.
-- Update `"updated"` at the top of the file to today's date.
+- `tag` and `note`: optional extra labels. The daily update keeps whatever you put here.
+- `id`: **only on games the daily update manages.** It tells the update which feed game this is. Don't add one to events you enter yourself, and don't copy one between events.
 
-Past events hide themselves automatically.
+Events **without** an `id` (races, the horse show, one-off events like the Capital Showcase) are yours: the update never changes or removes them. If you hand-enter a game for a team the update covers (say, a newly announced Wizards game), the update will find it by team and date, take it over, and keep your tag and note.
+
+Events **with** an `id` can still be edited, but the feed wins on date, time, opponent and venue. Your `tag` and `note` stick.
+
+After you commit, GitHub runs **Check schedule file**. A green ✅ next to your commit means it's fine; a red ❌ means there's a mistake. Click it to see exactly which event and field. Past events hide themselves automatically, and the daily update clears out events more than a week old.
