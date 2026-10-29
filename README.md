@@ -60,7 +60,8 @@ Every morning (about 6 AM Eastern) GitHub runs **Update schedule**, which:
 
 Right after the schedule update, the same daily run looks up every upcoming game on **Ticketmaster** and **SeatGeek**. It matches games by date, venue and team names, then stores a link and the lowest price each site lists. In the app this shows up as *Ticketmaster from $24 · SeatGeek from $19 · price checked Oct 29*. When neither site lists a game (common for smaller college games), the app shows a **Find tickets** link that searches the web for that game instead.
 
-- Prices are the lowest the site reported on the date shown and can change any time. Ticketmaster often doesn't publish prices, so many of its links appear without a "from $X".
+- Prices are the lowest the site reported on the date shown and can change any time. **As of Oct. 2026 neither site's free API returns prices** (Ticketmaster leaves them out; SeatGeek sends none to new accounts), so links show without a "from $X". If either site starts returning prices, they'll appear automatically on the next run.
+- SeatGeek only needs the **Client ID**. A `SEATGEEK_CLIENT_SECRET` secret is optional; if SeatGeek rejects it, the run falls back to the ID alone.
 - The keys live in the repo's **Settings → Secrets and variables → Actions** as `TICKETMASTER_API_KEY` and `SEATGEEK_CLIENT_ID`. If one is missing or a site is down, that seller is skipped and the links from the last good check stay as they were; the schedule update still goes through.
 - Each run's summary on the Actions tab includes a **Tickets** table showing how many games each site matched.
 
