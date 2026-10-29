@@ -81,6 +81,20 @@ def validate(path, previous=None):
             if e["id"] in seen_ids:
                 errors.append(f'{where}: duplicate id "{e["id"]}"')
             seen_ids.add(e["id"])
+        tix = e.get("tickets", [])
+        if not isinstance(tix, list):
+            errors.append(f'{where}: "tickets" must be a list')
+            tix = []
+        for t in tix:
+            if not isinstance(t, dict) or not isinstance(t.get("seller"), str) or not str(t.get("url", "")).startswith("https://"):
+                errors.append(f'{where}: each ticket needs a "seller" and an https "url"')
+                continue
+            if "from" in t and not (isinstance(t["from"], (int, float)) and 0 < t["from"] < 100000):
+                errors.append(f'{where}: ticket price "from" must be a positive number')
+            try:
+                datetime.date.fromisoformat(t.get("checked", ""))
+            except (TypeError, ValueError):
+                errors.append(f'{where}: ticket "checked" must be a date like 2026-10-29')
         game = (e["date"], e["team"], e["opponent"], e["time"])
         if game in seen_games:
             warnings.append(f"{where}: listed twice")

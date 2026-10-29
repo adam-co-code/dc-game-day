@@ -11,6 +11,7 @@ Every in-person sporting event in and around Washington, DC, as a small installa
 | `manifest.json`, `icon*.png`, `icon.svg` | Let phones install it to the home screen |
 | `sw.js` | Lets the app open offline with the last schedule it loaded |
 | `scripts/update.py` | Pulls the latest schedules from the NHL, MLB and ESPN feeds into `events.json` |
+| `scripts/tickets.py` | Adds Ticketmaster and SeatGeek links and "from $X" prices |
 | `scripts/validate.py` | Checks `events.json` for mistakes before it goes live |
 | `.github/workflows/` | Runs the two scripts above on GitHub automatically |
 
@@ -55,6 +56,14 @@ Every morning (about 6 AM Eastern) GitHub runs **Update schedule**, which:
 
 **Heads-up:** GitHub pauses scheduled jobs in a repo that has had no activity for 60 days. The daily update commits keep it active, but if it ever pauses, GitHub shows a button on the Actions tab to turn it back on.
 
+## Ticket links and prices
+
+Right after the schedule update, the same daily run looks up every upcoming game on **Ticketmaster** and **SeatGeek**. It matches games by date, venue and team names, then stores a link and the lowest price each site lists. In the app this shows up as *Ticketmaster from $24 · SeatGeek from $19 · price checked Oct 29*. When neither site lists a game (common for smaller college games), the app shows a **Find tickets** link that searches the web for that game instead.
+
+- Prices are the lowest the site reported on the date shown and can change any time. Ticketmaster often doesn't publish prices, so many of its links appear without a "from $X".
+- The keys live in the repo's **Settings → Secrets and variables → Actions** as `TICKETMASTER_API_KEY` and `SEATGEEK_CLIENT_ID`. If one is missing or a site is down, that seller is skipped and the links from the last good check stay as they were; the schedule update still goes through.
+- Each run's summary on the Actions tab includes a **Tickets** table showing how many games each site matched.
+
 ## Editing the schedule by hand
 
 Edit `events.json` (on GitHub: open the file → pencil icon → **Commit changes**). Each event looks like this:
@@ -69,7 +78,8 @@ Edit `events.json` (on GitHub: open the file → pencil icon → **Commit change
   "venue": "nw",
   "tag": "SNF",
   "note": "",
-  "id": "espn:401873168"
+  "id": "espn:401873168",
+  "tickets": [{"seller": "Ticketmaster", "url": "https://www.ticketmaster.com/...", "from": 89, "checked": "2026-10-29"}]
 }
 ```
 
@@ -77,6 +87,7 @@ Edit `events.json` (on GitHub: open the file → pencil icon → **Commit change
 - `sport`: one of `nfl` (pro football, incl. UFL), `nhl`, `nba` (pro basketball incl. WNBA and G League), `mlb`, `soc`, `ncaaf`, `ncaab`, `oth` (special events).
 - `venue`: a short code defined in `index.html` (search for `const V=`), e.g. `cap` = Capital One Arena, `nw` = Northwest Stadium, `audi` = Audi Field, `nats` = Nationals Park. You can also type a full venue name like `"Bender Arena · American U, DC"`.
 - `tag` and `note`: optional extra labels. The daily update keeps whatever you put here.
+- `tickets`: filled in by the daily run; you can leave it out. On games without an `id`, you can add a ticket link yourself in the same format and it'll be kept (leave out `"from"` if there's no price).
 - `id`: **only on games the daily update manages.** It tells the update which feed game this is. Don't add one to events you enter yourself, and don't copy one between events.
 
 Events **without** an `id` (races, the horse show, one-off events like the Capital Showcase) are yours: the update never changes or removes them. If you hand-enter a game for a team the update covers (say, a newly announced Wizards game), the update will find it by team and date, take it over, and keep your tag and note.

@@ -30,6 +30,15 @@ jobs:
           cp events.json "$RUNNER_TEMP/previous.json"
           python3 scripts/update.py
 
+      # Ticket lookups never block the schedule update: if this step fails,
+      # the run carries on and the previous ticket links are kept.
+      - name: Look up ticket links and prices
+        continue-on-error: true
+        env:
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          SEATGEEK_CLIENT_ID: ${{ secrets.SEATGEEK_CLIENT_ID }}
+        run: python3 scripts/tickets.py
+
       - name: Check the new file before publishing
         run: python3 scripts/validate.py events.json --previous "$RUNNER_TEMP/previous.json"
 
