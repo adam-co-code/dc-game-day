@@ -5,6 +5,7 @@ Run by .github/workflows/update.yml after update.py. Needs one or both keys as
 environment variables (stored as GitHub repository secrets):
     TICKETMASTER_API_KEY   Ticketmaster Discovery API "Consumer Key"
     SEATGEEK_CLIENT_ID     SeatGeek API "Client ID"
+    SEATGEEK_CLIENT_SECRET SeatGeek "Client Secret" (optional; only if SeatGeek gave you one)
 
 For each DC-area venue it downloads that seller's upcoming events, then matches
 them to our games by date, venue and team/opponent names. Each match is stored as
@@ -35,6 +36,8 @@ VENUES = {
     "greene": ("Greene Stadium", "DC"), "burr": ("Burr Gymnasium", "DC"), "bender": ("Bender Arena", "DC"),
     "eagle": ("EagleBank Arena", "VA"),
 }
+# Add-on listings (theme-night bundles, giveaway packs, hospitality) only win when there's no plain game listing
+PROMO = re.compile(r"\bpacks?\b|bundle|package|voucher|hospitality|experience|theme night|ticket \+|\+ ", re.I)
 SKIP = re.compile(r"parking|season ticket|ticket package|flex plan|mini plan|suite rental|gift card", re.I)
 STOP = {"vs", "the", "and", "of", "at", "university", "college", "state", "fc", "sc", "city", "new", "st",
         "saint", "men", "mens", "women", "womens", "basketball", "football", "game", "washington", "dc", "d.c"}
@@ -85,15 +88,17 @@ def ticketmaster(key, today):
 
 
 def seatgeek(client_id, today):
+    secret = os.environ.get("SEATGEEK_CLIENT_SECRET", "").strip()
+    auth = {"client_id": client_id} | ({"client_secret": secret} if secret else {})
     """All upcoming SeatGeek events at our venues, in the same shape as ticketmaster()."""
     out = []
     for code, (name, state) in VENUES.items():
-        q = urllib.parse.urlencode({"client_id": client_id, "q": name, "state": state, "per_page": 20})
+        q = urllib.parse.urlencode(auth | {"q": name, "state": state, "per_page": 20})
         data = get(f"https://api.seatgeek.com/2/venues?{q}")
         ids = [str(v["id"]) for v in data.get("venues", []) if words(name) <= words(v.get("name", ""))]
         for vid in ids:
             for page in range(1, 6):
-                q = urllib.parse.urlencode({"client_id": client_id, "venue.id": vid, "per_page": 200, "page": page,
+                q = urllib.parse.urlencode(auth | {"venue.id": vid, "per_page": 200, "page": page,
                                             "datetime_local.gte": today, "sort": "datetime_local.asc"})
                 data = get(f"https://api.seatgeek.com/2/events?{q}")
                 for e in data.get("events", []):
@@ -119,7 +124,9 @@ def best_match(ev, listings):
     team = re.sub(r" \((M|W)\)$", "", ev["team"])
     tw, ow = words(team), words(ev["opponent"])
     women = ev["team"].endswith("(W)")
-    best, best_score = None, 0
+    # At our own venue on the right date, one name hit is enough; elsewhere require more
+    needed = 1 if ev["venue"] in VENUES else 3
+    best, best_rank = None, None
     for code, date, t, name, url, price in listings:
         if date != ev["date"] or SKIP.search(name):
             continue
@@ -131,10 +138,12 @@ def best_match(ev, listings):
         score = 2 * len(ow & nw) + len(tw & nw)
         if t and ev["time"] and t == to24(ev["time"]):
             score += 1
-        if score > best_score:
-            best, best_score = (url, price), score
-    # At our own venue on the right date, one name hit is enough; elsewhere require more
-    return best if best_score >= (1 if ev["venue"] in VENUES else 3) else None
+        if score < needed:
+            continue
+        rank = (not PROMO.search(name), score)  # a plain game listing beats any add-on package
+        if best_rank is None or rank > best_rank:
+            best, best_rank = (url, price), rank
+    return best
 
 
 def main():
